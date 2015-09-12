@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: d836e6dfc7fe449f597c0ff8724401df
+timeCreated: 1441867298
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: savannah_01
+    21300002: savannah_02
+    21300004: savannah_03
+    21300006: savannah_04
+    21300008: savannah_06
+    21300010: savannah_07_deer
+    21300012: savannah_08
+    21300014: savannah_10
+    21300016: savannah_11_deer
+    21300018: savannah_12
+    21300020: savannah_13
+    21300022: savannah_14
+    21300024: savannah_15
+    21300026: savannah_16_1
+    21300028: savannah_16_2
+    21300030: savannah_17_shine
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: savannah_01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1024
+        width: 850
+        height: 282
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: savannah_02
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 651
+        width: 850
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: savannah_03
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 449
+        width: 850
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: savannah_04
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 545
+        width: 850
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: savannah_06
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1697
+        width: 850
+        height: 349
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: savannah_07_deer
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 1536
+        width: 111
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: savannah_08
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1060
+        width: 850
+        height: 286
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: savannah_10
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1348
+        width: 850
+        height: 347
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: savannah_11_deer
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 1459
+        width: 157
+        height: 188
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: savannah_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1308
+        width: 850
+        height: 330
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: savannah_13
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 801
+        width: 850
+        height: 257
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: savannah_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1640
+        width: 850
+        height: 406
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: savannah_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 769
+        width: 850
+        height: 253
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: savannah_16_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 92
+        width: 425
+        height: 675
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: savannah_16_2
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 92
+        width: 425
+        height: 675
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: savannah_17_shine
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 1649
+        width: 250
+        height: 397
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: global.unity3d
+  assetBundleVariant: 

@@ -1,0 +1,28 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: ui.png (128 x 128)
+# $TexturePacker:SmartUpdate:67224d99d42938505fcaea07477c9a70:2fd792fd93f75c6739d5d9cddf2f0fce:0468195115ed5bbbcf55e2ca0092fcfa$
+#
+
+black;77;39;10;10;0.5;0.5
+button_normal;2;87;73;39;0.5;0.5
+button_press;2;46;73;39;0.5;0.5
+checkbox;98;86;17;18;0.5;0.5
+checkbox_cross;114;59;11;12;0.5;0.5
+checkbox_select;114;73;12;11;0.5;0.5
+input;117;93;9;11;0.5;0.5
+progress_bg;109;46;11;11;0.5;0.5
+progress_fg;94;39;11;11;0.5;0.5
+radio;77;68;17;17;0.5;0.5
+radio_select;119;117;7;9;0.5;0.5
+slider_bg;94;52;13;13;0.5;0.5
+slider_circle;77;106;19;20;0.5;0.5
+slider_dot;98;106;19;20;0.5;0.5
+slider_square;77;87;19;17;0.5;0.5
+switch_bg;77;51;15;15;0.5;0.5
+switch_inner;96;67;16;17;0.5;0.5
+white;107;34;10;10;0.5;0.5

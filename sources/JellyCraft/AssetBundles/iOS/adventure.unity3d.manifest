@@ -1,0 +1,68 @@
+ManifestFileVersion: 0
+CRC: 3252026081
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 736f014b8809110604585d47007b5a80
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dcb01ecc29dd4e8e7f411024e1126bc6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 92
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 00a118382488a4859a41390700bd64a9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 127
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundle/Scene/adventure_savannah_a.unity
+- Assets/Bundle/Scene/adventure_antarctica_c.unity
+- Assets/Bundle/Scene/adventure_alaska_c.unity
+- Assets/Bundle/Scene/adventure_antarctica_a.unity
+- Assets/Bundle/Scene/adventure_savannah_b.unity
+- Assets/Bundle/Scene/adventure_savannah_c.unity
+- Assets/Bundle/Scene/adventure_amazon_c.unity
+- Assets/Bundle/Scene/adventure_alaska_a.unity
+- Assets/Bundle/Scene/adventure_antarctica_b.unity
+- Assets/Bundle/Scene/adventure_amazon_b.unity
+- Assets/Bundle/Scene/adventure_amazon_a.unity
+- Assets/Bundle/Scene/adventure_alaska_b.unity
+Dependencies:
+- AssetBundles/iOS/global.unity3d

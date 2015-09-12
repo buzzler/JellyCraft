@@ -1,0 +1,388 @@
+ManifestFileVersion: 0
+CRC: 916446433
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 48d02f419f9ccfa8279c5f2d0ea36c22
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7e1ef3c0c9c3d15fb6096aca100cee02
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 00a118382488a4859a41390700bd64a9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 87f1fa7a810d84c4f8ed2cfed9eec8f4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 178a386eab13d467996cf23969a39ed0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundle/Prefab/Head/loli_3.prefab
+- Assets/Bundle/Image/character/furseal_base_120.png
+- Assets/Bundle/Image/character/chick_eye_01.png
+- Assets/Bundle/Image/character/gibbon_eye_02.png
+- Assets/Bundle/Image/character/penguin_base_120.png
+- Assets/Bundle/Image/character/horse_base.png
+- Assets/Bundle/Prefab/Head/panda_3.prefab
+- Assets/Bundle/Image/character/otter_base_160.png
+- Assets/Bundle/Image/character/chick_base_120.png
+- Assets/Bundle/Image/character/frog_eye_02.png
+- Assets/Bundle/Image/character/pomewhite_base_120.png
+- Assets/Bundle/Prefab/Head/pig_1.prefab
+- Assets/Bundle/Image/character/naru_eye_01.png
+- Assets/Bundle/Image/character/pomewhite_base_160.png
+- Assets/Bundle/Prefab/Head/polarbear_2.prefab
+- Assets/Bundle/Prefab/Head/rabbit_2.prefab
+- Assets/Bundle/Prefab/Head/otter_3.prefab
+- Assets/Bundle/Image/bg/alaska_a.png
+- Assets/Bundle/Image/character/horse_eye_01.png
+- Assets/Bundle/Image/character/rabbit_base.png
+- Assets/Bundle/Image/character/raccoon_base_120.png
+- Assets/Bundle/Animation/bg_antarctica_weather.controller
+- Assets/Bundle/Image/character/welshcorgi_eye_01.png
+- Assets/Bundle/Image/character/welshcorgi_base_160.png
+- Assets/Bundle/Image/character/cameleon_eye_01.png
+- Assets/Bundle/Prefab/Background/Background_savannah_A.prefab
+- Assets/Bundle/Image/character/soan_base_160.png
+- Assets/Bundle/Prefab/Head/hippopotamus_1.prefab
+- Assets/Bundle/Prefab/Head/furseal_2.prefab
+- Assets/Bundle/Prefab/Head/pig_2.prefab
+- Assets/Bundle/Prefab/Head/bear_3.prefab
+- Assets/Bundle/Prefab/Head/penguin_3.prefab
+- Assets/Bundle/Prefab/Background/Background_savannah_C.prefab
+- Assets/Bundle/Image/character/lioness_base.png
+- Assets/Bundle/Image/character/raccoon_eye_01.png
+- Assets/Bundle/Prefab/Head/pigblack_2.prefab
+- Assets/Bundle/Image/character/chicken_eye_01.png
+- Assets/Bundle/Image/character/pomeranian_base_120.png
+- Assets/Bundle/Image/character/loli_base_160.png
+- Assets/Bundle/Prefab/Head/polarbear_1.prefab
+- Assets/Bundle/Animation/bg_amazon_weather.anim
+- Assets/Bundle/Image/character/rabbit_eye_02.png
+- Assets/Bundle/Prefab/Head/gibbon_2.prefab
+- Assets/Bundle/Prefab/Head/otter_2.prefab
+- Assets/Bundle/Prefab/Head/boo_3.prefab
+- Assets/Bundle/Prefab/Head/pomeranian_3.prefab
+- Assets/Bundle/Image/character/rabbit_base_120.png
+- Assets/Bundle/Image/character/pomewhite_mouth_01.png
+- Assets/Bundle/Image/character/elephant_eye_02.png
+- Assets/Bundle/Image/character/pigblack_eye_01.png
+- Assets/Bundle/Image/character/elephant_eye_01.png
+- Assets/Bundle/Image/character/chicken_base.png
+- Assets/Bundle/Prefab/Head/naru_1.prefab
+- Assets/Bundle/Image/character/rabbit_base_160.png
+- Assets/Bundle/Image/character/jindo_eye_01.png
+- Assets/Bundle/Image/character/pomewhite_eye_01.png
+- Assets/Bundle/Image/character/chicken_eye_02.png
+- Assets/Bundle/Image/character/loli_eye_02.png
+- Assets/Bundle/Image/character/pig_eye_01.png
+- Assets/Bundle/Prefab/Head/welshcorgi_1.prefab
+- Assets/Bundle/Image/character/boo_base_120.png
+- Assets/Bundle/Prefab/Head/chick_3.prefab
+- Assets/Bundle/Image/character/boo_eye_02.png
+- Assets/Bundle/Image/character/soan_eye_02.png
+- Assets/Bundle/Image/character/polarbear_eye_01.png
+- Assets/Bundle/Image/character/horse_base_160.png
+- Assets/Bundle/Prefab/Head/naru_3.prefab
+- Assets/Bundle/Prefab/Head/penguin_2.prefab
+- Assets/Bundle/Image/character/cameleon_eye_02.png
+- Assets/Bundle/Prefab/Head/welshcorgi_2.prefab
+- Assets/Bundle/Prefab/Head/naru_2.prefab
+- Assets/Bundle/Prefab/Head/greenturtle_2.prefab
+- Assets/Bundle/Image/character/cow_base_120.png
+- Assets/Bundle/Image/character/alpaca_base_120.png
+- Assets/Bundle/Prefab/Head/cameleon_1.prefab
+- Assets/Bundle/Image/character/lioness_eye_01.png
+- Assets/Bundle/Image/character/alpaca_eye_01.png
+- Assets/Bundle/Prefab/Head/panda_2.prefab
+- Assets/Bundle/Image/character/pig_base_160.png
+- Assets/Bundle/Prefab/Head/rabbit_3.prefab
+- Assets/Bundle/Prefab/Head/cow_2.prefab
+- Assets/Bundle/Prefab/Head/penguin_1.prefab
+- Assets/Bundle/Image/character/persian_eye_02.png
+- Assets/Bundle/Image/character/pomeranian_eye_02.png
+- Assets/Bundle/Image/character/pomewhite_base.png
+- Assets/Bundle/Prefab/Head/chick_2.prefab
+- Assets/Bundle/Image/character/otter_base_120.png
+- Assets/Bundle/Animation/bg_antarctica_penguin.controller
+- Assets/Bundle/Prefab/Background/Background_antarctica_A.prefab
+- Assets/Bundle/Image/character/persian_base_120.png
+- Assets/Bundle/Image/character/crocodile_base.png
+- Assets/Bundle/Image/character/crocodile_eye_01.png
+- Assets/Bundle/Image/character/lion_eye_01.png
+- Assets/Bundle/Image/character/jindo_base.png
+- Assets/Bundle/Prefab/Background/Background_antarctica_C.prefab
+- Assets/Bundle/Prefab/Head/sealion_3.prefab
+- Assets/Bundle/Image/character/loli_base.png
+- Assets/Bundle/Image/character/bear_base_160.png
+- Assets/Bundle/Prefab/Background/Background_amazon_C.prefab
+- Assets/Bundle/Image/character/chick_base.png
+- Assets/Bundle/Prefab/Head/lioness_2.prefab
+- Assets/Bundle/Image/character/giraffe_base_120.png
+- Assets/Bundle/Image/character/bear_base_120.png
+- Assets/Bundle/Image/character/pomeranian_mouth_01.png
+- Assets/Bundle/Image/character/greenturtle_base_160.png
+- Assets/Bundle/Animation/bg_antarctica_aurora.controller
+- Assets/Bundle/Prefab/Head/furseal_3.prefab
+- Assets/Bundle/Image/character/sealion_base_120.png
+- Assets/Bundle/Prefab/Head/pigblack_1.prefab
+- Assets/Bundle/Prefab/Head/persian_3.prefab
+- Assets/Bundle/Image/character/horse_eye_02.png
+- Assets/Bundle/Image/character/welshcorgi_mouth_02.png
+- Assets/Bundle/Prefab/Head/santa_1.prefab
+- Assets/Bundle/Prefab/Head/jindo_3.prefab
+- Assets/Bundle/Prefab/Background/Background_antarctica_B.prefab
+- Assets/Bundle/Prefab/Head/sheep_2.prefab
+- Assets/Bundle/Image/character/furseal_base.png
+- Assets/Bundle/Prefab/Head/sheep_1.prefab
+- Assets/Bundle/Image/character/hippopotamus_base.png
+- Assets/Bundle/Prefab/Head/alpaca_1.prefab
+- Assets/Bundle/Image/character/rabbit_eye_01.png
+- Assets/Bundle/Prefab/Head/welshcorgi_3.prefab
+- Assets/Bundle/Image/character/welshcorgi_mouth_01.png
+- Assets/Bundle/Image/character/cow_base.png
+- Assets/Bundle/Image/character/cameleon_base_160.png
+- Assets/Bundle/Image/character/crocodile_eye_02.png
+- Assets/Bundle/Image/character/sealion_base_160.png
+- Assets/Bundle/Prefab/Head/polarbear_3.prefab
+- Assets/Bundle/Prefab/Head/persian_1.prefab
+- Assets/Bundle/Prefab/Head/soan_1.prefab
+- Assets/Bundle/Image/character/bear_eye_01.png
+- Assets/Bundle/Image/bg/amazon_a.png
+- Assets/Bundle/Prefab/Head/pomewhite_2.prefab
+- Assets/Bundle/Image/character/raccoon_eye_02.png
+- Assets/Bundle/Image/character/pomeranian_base_160.png
+- Assets/Bundle/Prefab/Head/sealion_1.prefab
+- Assets/Bundle/Image/character/raccoon_base.png
+- Assets/Bundle/Image/character/jindo_mouth_01.png
+- Assets/Bundle/Animation/bg_savannah_weather.controller
+- Assets/Bundle/Image/character/sealion_base.png
+- Assets/Bundle/Prefab/Head/jindo_2.prefab
+- Assets/Bundle/Image/character/penguin_eye_02.png
+- Assets/Bundle/Image/character/chicken_base_160.png
+- Assets/Bundle/Prefab/Head/pomewhite_3.prefab
+- Assets/Bundle/Prefab/Head/bear_1.prefab
+- Assets/Bundle/Prefab/Head/alpaca_2.prefab
+- Assets/Bundle/Image/character/welshcorgi_base_120.png
+- Assets/Bundle/Image/character/elephant_base.png
+- Assets/Bundle/Image/character/cameleon_base.png
+- Assets/Bundle/Prefab/Head/crocodile_3.prefab
+- Assets/Bundle/Prefab/Head/pomeranian_2.prefab
+- Assets/Bundle/Prefab/Head/sheep_3.prefab
+- Assets/Bundle/Image/character/pigblack_eye_02.png
+- Assets/Bundle/Animation/bg_amazon_crocodile.anim
+- Assets/Bundle/Image/character/polarbear_base.png
+- Assets/Bundle/Image/character/naru_base_120.png
+- Assets/Bundle/Prefab/Head/pig_3.prefab
+- Assets/Bundle/Image/character/pigblack_base_120.png
+- Assets/Bundle/Image/character/giraffe_base_160.png
+- Assets/Bundle/Prefab/Head/bear_2.prefab
+- Assets/Bundle/Image/character/raccoon_base_160.png
+- Assets/Bundle/Animation/bg_antarctica_penguin.anim
+- Assets/Bundle/Prefab/Background/Background_alaska_C.prefab
+- Assets/Bundle/Image/character/persian_base_160.png
+- Assets/Bundle/Image/character/furseal_eye_01.png
+- Assets/Bundle/Image/character/alpaca_base_160.png
+- Assets/Bundle/Image/character/sheep_base.png
+- Assets/Bundle/Animation/bg_alaska_bear_b.anim
+- Assets/Bundle/Image/character/persian_eye_01.png
+- Assets/Bundle/Image/character/frog_base_120.png
+- Assets/Bundle/Prefab/Head/santa_3.prefab
+- Assets/Bundle/Prefab/Head/otter_1.prefab
+- Assets/Bundle/Image/character/boo_base.png
+- Assets/Bundle/Prefab/Background/Background_amazon_B.prefab
+- Assets/Bundle/Prefab/Background/Background_amazon_A.prefab
+- Assets/Bundle/Image/character/crocodile_base_160.png
+- Assets/Bundle/Image/character/pomewhite_eye_02.png
+- Assets/Bundle/Image/character/pig_eye_02.png
+- Assets/Bundle/Prefab/Head/pomeranian_1.prefab
+- Assets/Bundle/Image/character/sheep_base_160.png
+- Assets/Bundle/Prefab/Head/giraffe_1.prefab
+- Assets/Bundle/Image/character/pigblack_base_160.png
+- Assets/Bundle/Prefab/Head/chicken_3.prefab
+- Assets/Bundle/Prefab/Head/sealion_2.prefab
+- Assets/Bundle/Image/character/sealion_eye_01.png
+- Assets/Bundle/Image/character/horse_base_120.png
+- Assets/Bundle/Animation/bg_antarctica_aurora.anim
+- Assets/Bundle/Prefab/Head/crocodile_1.prefab
+- Assets/Bundle/Image/character/elephant_base_120.png
+- Assets/Bundle/Image/character/greenturtle_base_120.png
+- Assets/Bundle/Prefab/Head/santa_2.prefab
+- Assets/Bundle/Image/character/polarbear_base_120.png
+- Assets/Bundle/Prefab/Head/hippopotamus_3.prefab
+- Assets/Bundle/Image/character/pomewhite_mouth_02.png
+- Assets/Bundle/Image/character/giraffe_eye_02.png
+- Assets/Bundle/Prefab/Head/elephant_2.prefab
+- Assets/Bundle/Image/character/pig_base.png
+- Assets/Bundle/Prefab/Head/soan_2.prefab
+- Assets/Bundle/Image/character/pomeranian_base.png
+- Assets/Bundle/Image/character/naru_base_160.png
+- Assets/Bundle/Prefab/Head/lion_2.prefab
+- Assets/Bundle/Image/character/lion_base_120.png
+- Assets/Bundle/Prefab/Head/soan_3.prefab
+- Assets/Bundle/Image/character/gibbon_base.png
+- Assets/Bundle/Prefab/Head/greenturtle_1.prefab
+- Assets/Bundle/Animation/animal_eye_common.anim
+- Assets/Bundle/Prefab/Head/lion_3.prefab
+- Assets/Bundle/Prefab/Head/frog_2.prefab
+- Assets/Bundle/Image/character/jindo_base_160.png
+- Assets/Bundle/Image/character/sheep_base_120.png
+- Assets/Bundle/Image/character/santa_base_160.png
+- Assets/Bundle/Image/character/giraffe_eye_01.png
+- Assets/Bundle/Prefab/Background/Background_savannah_B.prefab
+- Assets/Bundle/Image/character/pig_base_120.png
+- Assets/Bundle/Image/character/polarbear_base_160.png
+- Assets/Bundle/Image/character/greenturtle_eye_02.png
+- Assets/Bundle/Prefab/Head/raccoon_1.prefab
+- Assets/Bundle/Image/character/crocodile_base_120.png
+- Assets/Bundle/Image/character/panda_eye_02.png
+- Assets/Bundle/Animation/animal_eye.controller
+- Assets/Bundle/Image/bg/alaska_b.png
+- Assets/Bundle/Image/character/pigblack_base.png
+- Assets/Bundle/Image/character/furseal_eye_02.png
+- Assets/Bundle/Prefab/Head/cow_3.prefab
+- Assets/Bundle/Prefab/Head/greenturtle_3.prefab
+- Assets/Bundle/Prefab/Background/Background_alaska_A.prefab
+- Assets/Bundle/Prefab/Head/raccoon_3.prefab
+- Assets/Bundle/Prefab/Background/Background_amazon_D.prefab
+- Assets/Bundle/Image/character/chick_base_160.png
+- Assets/Bundle/Image/bg/antarctica_a.png
+- Assets/Bundle/Image/character/welshcorgi_base.png
+- Assets/Bundle/Image/character/hippopotamus_base_160.png
+- Assets/Bundle/Prefab/Head/cow_1.prefab
+- Assets/Bundle/Image/character/santa_eye_02.png
+- Assets/Bundle/Image/character/frog_base_160.png
+- Assets/Bundle/Image/character/elephant_base_160.png
+- Assets/Bundle/Image/character/gibbon_base_120.png
+- Assets/Bundle/Prefab/Head/horse_2.prefab
+- Assets/Bundle/Prefab/Head/chicken_1.prefab
+- Assets/Bundle/Prefab/Background/Background_alaska_B.prefab
+- Assets/Bundle/Image/character/otter_eye_02.png
+- Assets/Bundle/Image/character/pomeranian_eye_01.png
+- Assets/Bundle/Image/character/lion_base_160.png
+- Assets/Bundle/Image/character/cow_eye_01.png
+- Assets/Bundle/Prefab/Head/crocodile_2.prefab
+- Assets/Bundle/Image/character/hippopotamus_base_120.png
+- Assets/Bundle/Image/character/lion_eye_02.png
+- Assets/Bundle/Image/character/otter_base.png
+- Assets/Bundle/Prefab/Head/elephant_1.prefab
+- Assets/Bundle/Image/character/otter_eye_01.png
+- Assets/Bundle/Image/character/penguin_base_160.png
+- Assets/Bundle/Prefab/Head/pomewhite_1.prefab
+- Assets/Bundle/Prefab/Head/gibbon_1.prefab
+- Assets/Bundle/Prefab/Head/cameleon_2.prefab
+- Assets/Bundle/Image/character/gibbon_base_160.png
+- Assets/Bundle/Image/character/boo_base_160.png
+- Assets/Bundle/Image/character/soan_eye_01.png
+- Assets/Bundle/Prefab/Head/lioness_3.prefab
+- Assets/Bundle/Image/character/greenturtle_eye_01.png
+- Assets/Bundle/Animation/bg_amazon_crocodile.controller
+- Assets/Bundle/Image/bg/antarctica_b.png
+- Assets/Bundle/Prefab/Head/cameleon_3.prefab
+- Assets/Bundle/Image/character/soan_base.png
+- Assets/Bundle/Image/character/hippopotamus_eye_02.png
+- Assets/Bundle/Animation/bg_antarctica_weather.anim
+- Assets/Bundle/Image/character/panda_eye_01.png
+- Assets/Bundle/Prefab/Head/chicken_2.prefab
+- Assets/Bundle/Animation/bg_alaska_bear_b.controller
+- Assets/Bundle/Prefab/Background/Background_antarctica_D.prefab
+- Assets/Bundle/Prefab/Head/boo_2.prefab
+- Assets/Bundle/Prefab/Head/raccoon_2.prefab
+- Assets/Bundle/Image/character/naru_base.png
+- Assets/Bundle/Prefab/Background/Background_savannah_D.prefab
+- Assets/Bundle/Image/character/jindo_eye_02.png
+- Assets/Bundle/Prefab/Head/rabbit_1.prefab
+- Assets/Bundle/Prefab/Head/loli_2.prefab
+- Assets/Bundle/Prefab/Head/gibbon_3.prefab
+- Assets/Bundle/Image/character/bear_eye_02.png
+- Assets/Bundle/Image/character/lion_base.png
+- Assets/Bundle/Prefab/Head/horse_3.prefab
+- Assets/Bundle/Image/character/polarbear_eye_02.png
+- Assets/Bundle/Image/character/santa_base.png
+- Assets/Bundle/Image/character/panda_base_160.png
+- Assets/Bundle/Image/character/welshcorgi_eye_02.png
+- Assets/Bundle/Image/character/chicken_base_120.png
+- Assets/Bundle/Image/character/lioness_base_160.png
+- Assets/Bundle/Image/character/sheep_eye_02.png
+- Assets/Bundle/Prefab/Head/boo_1.prefab
+- Assets/Bundle/Animation/bg_alaska_river.controller
+- Assets/Bundle/Image/character/frog_eye_01.png
+- Assets/Bundle/Image/character/pomeranian_mouth_02.png
+- Assets/Bundle/Image/character/soan_base_120.png
+- Assets/Bundle/Prefab/Head/furseal_1.prefab
+- Assets/Bundle/Prefab/Head/giraffe_2.prefab
+- Assets/Bundle/Image/character/penguin_eye_01.png
+- Assets/Bundle/Image/character/cow_base_160.png
+- Assets/Bundle/Prefab/Head/elephant_3.prefab
+- Assets/Bundle/Image/character/naru_eye_02.png
+- Assets/Bundle/Image/character/gibbon_eye_01.png
+- Assets/Bundle/Image/character/lioness_base_120.png
+- Assets/Bundle/Image/character/boo_eye_01.png
+- Assets/Bundle/Image/character/loli_base_120.png
+- Assets/Bundle/Image/character/bear_base.png
+- Assets/Bundle/Image/character/alpaca_eye_02.png
+- Assets/Bundle/Prefab/Head/frog_3.prefab
+- Assets/Bundle/Prefab/Head/hippopotamus_2.prefab
+- Assets/Bundle/Prefab/Head/panda_1.prefab
+- Assets/Bundle/Image/character/furseal_base_160.png
+- Assets/Bundle/Prefab/Head/pigblack_3.prefab
+- Assets/Bundle/Image/character/cameleon_base_120.png
+- Assets/Bundle/Image/character/santa_eye_01.png
+- Assets/Bundle/Image/character/cow_eye_02.png
+- Assets/Bundle/Prefab/Head/loli_1.prefab
+- Assets/Bundle/Image/character/sealion_eye_02.png
+- Assets/Bundle/Image/character/panda_base.png
+- Assets/Bundle/Image/character/alpaca_base.png
+- Assets/Bundle/Animation/bg_amazon_weather.controller
+- Assets/Bundle/Prefab/Head/jindo_1.prefab
+- Assets/Bundle/Prefab/Head/lioness_1.prefab
+- Assets/Bundle/Image/character/loli_eye_01.png
+- Assets/Bundle/Image/character/greenturtle_base.png
+- Assets/Bundle/Image/character/giraffe_base.png
+- Assets/Bundle/Image/character/santa_base_120.png
+- Assets/Bundle/Animation/bg_alaska_river.anim
+- Assets/Bundle/Image/character/jindo_base_120.png
+- Assets/Bundle/Prefab/Head/chick_1.prefab
+- Assets/Bundle/Image/character/lioness_eye_02.png
+- Assets/Bundle/Image/character/persian_base.png
+- Assets/Bundle/Prefab/Head/lion_1.prefab
+- Assets/Bundle/Prefab/Head/giraffe_3.prefab
+- Assets/Bundle/Prefab/Head/horse_1.prefab
+- Assets/Bundle/Prefab/Background/Background_alaska_D.prefab
+- Assets/Bundle/Image/character/penguin_base.png
+- Assets/Bundle/Image/character/jindo_mouth_02.png
+- Assets/Bundle/Image/character/frog_base.png
+- Assets/Bundle/Image/character/sheep_eye_01.png
+- Assets/Bundle/Image/character/chick_eye_02.png
+- Assets/Bundle/Prefab/Head/frog_1.prefab
+- Assets/Bundle/Image/character/hippopotamus_eye_01.png
+- Assets/Bundle/Prefab/Head/persian_2.prefab
+- Assets/Bundle/Image/bg/amazon_b.png
+- Assets/Bundle/Prefab/Head/alpaca_3.prefab
+- Assets/Bundle/Image/bg/savannah.png
+Dependencies: []

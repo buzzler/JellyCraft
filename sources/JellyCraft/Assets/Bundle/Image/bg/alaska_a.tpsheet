@@ -1,0 +1,26 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: alaska_a.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:6e8f311d6aff9a7cc39f59c0be5da351:571c1d6acabfde3b5d44e72676bba2f6:66920096f2e5f5844413f7515e73606e$
+#
+
+alaska_bear_12_1;1070;1393;850;653;0.5;0.5
+alaska_bear_12_2;1070;738;850;653;0.5;0.5
+alaska_bear_12_shine;2;377;1066;1669;0.5;0.5
+alaska_bear_13;2;31;850;344;0.5;0.5
+alaska_bear_13_2;1922;1969;88;77;0.5;0.5
+alaska_bear_14;854;168;593;207;0.5;0.5
+alaska_bear_15;1070;546;850;190;0.5;0.5
+alaska_bear_bear_b_01;854;50;188;116;0.5;0.5
+alaska_bear_bear_b_02;1044;50;188;116;0.5;0.5
+alaska_bear_bear_b_03;1234;50;188;116;0.5;0.5
+alaska_bear_bear_b_04;1424;50;188;116;0.5;0.5
+alaska_bear_bear_b_05;1070;428;188;116;0.5;0.5
+alaska_bear_bear_b_06;1260;428;188;116;0.5;0.5
+alaska_bear_bear_b_07;1449;310;188;116;0.5;0.5
+alaska_bear_bear_b_08;1450;428;188;116;0.5;0.5
+alaska_bear_fish;1922;1903;64;64;0.5;0.5

@@ -1,0 +1,110 @@
+fileFormatVersion: 2
+guid: 3b6417bf5e4fc45c794fa2779b543830
+timeCreated: 1441841034
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: amazone_10_shine
+    21300002: amazone_11
+    21300004: amazone_16_1
+    21300006: amazone_16_2
+    21300008: amazone_16_shine
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: amazone_10_shine
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 19
+        width: 425
+        height: 675
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: amazone_11
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 284
+        width: 850
+        height: 410
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: amazone_16_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 696
+        width: 850
+        height: 1350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: amazone_16_2
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 696
+        width: 850
+        height: 1350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: amazone_16_shine
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 19
+        width: 425
+        height: 675
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: global.unity3d
+  assetBundleVariant: 

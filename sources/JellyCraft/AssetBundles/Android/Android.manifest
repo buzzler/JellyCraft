@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: global.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: title.unity3d
+      Dependencies:
+        Dependency_0: global.unity3d
+    Info_2:
+      Name: adventure.unity3d
+      Dependencies:
+        Dependency_0: global.unity3d
+    Info_3:
+      Name: blitz.unity3d
+      Dependencies:
+        Dependency_0: global.unity3d
+    Info_4:
+      Name: ui_title.unity3d
+      Dependencies: {}

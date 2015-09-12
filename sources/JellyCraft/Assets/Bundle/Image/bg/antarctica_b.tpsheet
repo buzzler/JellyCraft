@@ -1,0 +1,16 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: antarctica_b.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:f6ba121b3a11fc62ffa736d263b062ac:26231ab8c671971b582a9d214e7f6215:7483cc4e61e6b4ab711b3f8af8bb78a7$
+#
+
+antarctica_10;2;221;850;213;0.5;0.5
+antarctica_11;2;436;850;258;0.5;0.5
+antarctica_12_1;1706;1946;148;100;0.5;0.5
+antarctica_12_2;1856;1946;148;100;0.5;0.5
+antarctica_13_1;2;696;850;1350;0.5;0.5
+antarctica_13_2;854;696;850;1350;0.5;0.5

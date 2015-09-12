@@ -1,0 +1,946 @@
+fileFormatVersion: 2
+guid: 9bf1030aaf8124399b88d7103272e9ca
+timeCreated: 1441996534
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: board_01
+    21300002: board_02
+    21300004: board_popup_01
+    21300006: board_popup_02
+    21300008: board_slot_01
+    21300010: board_slot_02
+    21300012: board_slot_02_tail
+    21300014: board_sub_01
+    21300016: board_sub_02
+    21300018: btn_big_blue
+    21300020: btn_big_blue_click
+    21300022: btn_big_disable
+    21300024: btn_big_orange
+    21300026: btn_big_orange_click
+    21300028: btn_big_sky
+    21300030: btn_big_sky_click
+    21300032: btn_mini_01
+    21300034: btn_mini_02
+    21300036: btn_mini_03
+    21300038: btn_mini_03_click
+    21300040: btn_mini_04
+    21300042: btn_mini_04_click
+    21300044: btn_normal_blue
+    21300046: btn_normal_blue_click
+    21300048: btn_normal_disable
+    21300050: btn_normal_orange
+    21300052: btn_normal_orange_click
+    21300054: btn_normal_sky
+    21300056: btn_normal_sky_click
+    21300058: btn_onoff_off
+    21300060: btn_onoff_on
+    21300062: gauge_base
+    21300064: gauge_gain
+    21300066: gauge_slice
+    21300068: icon_arrow
+    21300070: icon_boxbreak
+    21300072: icon_coin
+    21300074: icon_conserve_battery
+    21300076: icon_facebook
+    21300078: icon_gacha
+    21300080: icon_google
+    21300082: icon_heart
+    21300084: icon_home
+    21300086: icon_language
+    21300088: icon_lock
+    21300090: icon_message
+    21300092: icon_movie
+    21300094: icon_mute_off
+    21300096: icon_mute_on
+    21300098: icon_new
+    21300100: icon_option
+    21300102: icon_pause
+    21300104: icon_present
+    21300106: icon_question
+    21300108: icon_rank
+    21300110: icon_replay
+    21300112: icon_restore
+    21300114: icon_share
+    21300116: icon_tutorial
+    21300118: icon_watch
+    21300120: icon_x
+    21300122: item_boxbreak_01
+    21300124: item_boxbreak_02
+    21300126: item_boxbreak_03
+    21300128: item_boxbreak_04
+    21300130: item_boxbreak_05
+    21300132: item_gold_01
+    21300134: item_gold_02
+    21300136: item_gold_03
+    21300138: item_gold_04
+    21300140: item_gold_05
+    21300142: slot_a_01
+    21300144: slot_a_02
+    21300146: slot_a_03
+    21300148: slot_a_base
+    21300150: slot_a_check
+    21300152: slot_b_01
+    21300154: speakbox
+    21300156: star_able
+    21300158: star_disable
+    21300160: star_success
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: board_01
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 666
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 32, y: 32, z: 32, w: 32}
+    - name: board_02
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 13
+        width: 97
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 28, y: 33, z: 28, w: 28}
+    - name: board_popup_01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 725
+        width: 174
+        height: 297
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 32, y: 38, z: 32, w: 96}
+    - name: board_popup_02
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 857
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 32, y: 30, z: 32, w: 52}
+    - name: board_slot_01
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 506
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 26, y: 26, z: 26, w: 26}
+    - name: board_slot_02
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 693
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 16, y: 16, z: 16, w: 16}
+    - name: board_slot_02_tail
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 786
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: board_sub_01
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 330
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 26, y: 26, z: 26, w: 26}
+    - name: board_sub_02
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 417
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 26, y: 26, z: 26, w: 26}
+    - name: btn_big_blue
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 726
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 63, y: 66, z: 63, w: 52}
+    - name: btn_big_blue_click
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 595
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 63, y: 66, z: 63, w: 52}
+    - name: btn_big_disable
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 893
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 63, y: 66, z: 63, w: 52}
+    - name: btn_big_orange
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 762
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 63, y: 66, z: 63, w: 52}
+    - name: btn_big_orange_click
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 609
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 63, y: 66, z: 63, w: 52}
+    - name: btn_big_sky
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 893
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 63, y: 66, z: 63, w: 52}
+    - name: btn_big_sky_click
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 762
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 63, y: 66, z: 63, w: 52}
+    - name: btn_mini_01
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 22
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 30, y: 30, z: 30, w: 30}
+    - name: btn_mini_02
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 246
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 26, y: 26, z: 26, w: 26}
+    - name: btn_mini_03
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 8
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 16, y: 16, z: 16, w: 16}
+    - name: btn_mini_03_click
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 3
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 16, y: 16, z: 16, w: 16}
+    - name: btn_mini_04
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 48
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 16, y: 16, z: 16, w: 16}
+    - name: btn_mini_04_click
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 7
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 16, y: 16, z: 16, w: 16}
+    - name: btn_normal_blue
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 596
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 33, y: 35, z: 33, w: 30}
+    - name: btn_normal_blue_click
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 526
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 33, y: 35, z: 33, w: 30}
+    - name: btn_normal_disable
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 42
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 33, y: 35, z: 33, w: 30}
+    - name: btn_normal_orange
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 42
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 33, y: 35, z: 33, w: 30}
+    - name: btn_normal_orange_click
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 42
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 33, y: 35, z: 33, w: 30}
+    - name: btn_normal_sky
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 19
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 33, y: 35, z: 33, w: 30}
+    - name: btn_normal_sky_click
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 8
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 33, y: 35, z: 33, w: 30}
+    - name: btn_onoff_off
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 162
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 26, y: 26, z: 26, w: 26}
+    - name: btn_onoff_on
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 78
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 26, y: 26, z: 26, w: 26}
+    - name: gauge_base
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 740
+        width: 110
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gauge_gain
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 740
+        width: 110
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gauge_slice
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 803
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_arrow
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 479
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_boxbreak
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 430
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_coin
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 430
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_conserve_battery
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 300
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_facebook
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 300
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_gacha
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 349
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_google
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 349
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_heart
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 632
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_home
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 894
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_language
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 764
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_lock
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 502
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_message
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 372
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_movie
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 634
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_mute_off
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 894
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_mute_on
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 764
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_new
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 504
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_option
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 242
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_pause
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 219
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_present
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 219
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_question
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 170
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_rank
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 170
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_replay
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 40
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_restore
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 40
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_share
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 112
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_tutorial
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 89
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_watch
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 89
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_x
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 47
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_boxbreak_01
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 112
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_boxbreak_02
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 374
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_boxbreak_03
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 634
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_boxbreak_04
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 504
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_boxbreak_05
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 894
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_gold_01
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 764
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_gold_02
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 244
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_gold_03
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 114
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_gold_04
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 374
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_gold_05
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 244
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slot_a_01
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 646
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 16, y: 16, z: 16, w: 16}
+    - name: slot_a_02
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 599
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 16, y: 16, z: 16, w: 16}
+    - name: slot_a_03
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 552
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 16, y: 16, z: 16, w: 16}
+    - name: slot_a_base
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 821
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slot_a_check
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 66
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slot_b_01
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 20
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: speakbox
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 560
+        width: 220
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 66, y: 80, z: 90, w: 56}
+    - name: star_able
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 505
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: star_disable
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 19
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: star_success
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 65
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: ui_title.unity3d
+  assetBundleVariant: 

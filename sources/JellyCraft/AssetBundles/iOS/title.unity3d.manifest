@@ -1,0 +1,95 @@
+ManifestFileVersion: 0
+CRC: 4038551824
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8381c43381469ff955e08b532fef1431
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9b1574a4f06cd8f7080e2c7d61abd2e8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 00a118382488a4859a41390700bd64a9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 87f1fa7a810d84c4f8ed2cfed9eec8f4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 178a386eab13d467996cf23969a39ed0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 127
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundle/Scene/title_bear.unity
+- Assets/Bundle/Scene/title_pigblack.unity
+- Assets/Bundle/Scene/title_sealion.unity
+- Assets/Bundle/Scene/title_raccoon.unity
+- Assets/Bundle/Scene/title_crocodile.unity
+- Assets/Bundle/Scene/title_welshcorgi.unity
+- Assets/Bundle/Scene/title_frog.unity
+- Assets/Bundle/Scene/title_rabbit.unity
+- Assets/Bundle/Scene/title_panda.unity
+- Assets/Bundle/Scene/title_santa.unity
+- Assets/Bundle/Scene/title_chick.unity
+- Assets/Bundle/Scene/title_penguin.unity
+- Assets/Bundle/Scene/title_naru.unity
+- Assets/Bundle/Scene/title_boo.unity
+- Assets/Bundle/Scene/title_loli.unity
+- Assets/Bundle/Scene/title_greenturtle.unity
+- Assets/Bundle/Scene/title_soan.unity
+- Assets/Bundle/Scene/title_elephant.unity
+- Assets/Bundle/Scene/title_horse.unity
+- Assets/Bundle/Scene/title_jindo.unity
+- Assets/Bundle/Scene/title_hippopotamus.unity
+- Assets/Bundle/Scene/title_giraffe.unity
+- Assets/Bundle/Scene/title_pomeranian.unity
+- Assets/Bundle/Scene/title_persian.unity
+- Assets/Bundle/Scene/title_chicken.unity
+- Assets/Bundle/Scene/title_pomewhite.unity
+- Assets/Bundle/Scene/title_gibbon.unity
+- Assets/Bundle/Scene/title_cameleon.unity
+- Assets/Bundle/Scene/title_polarbear.unity
+- Assets/Bundle/Scene/title_lioness.unity
+- Assets/Bundle/Scene/title_pig.unity
+- Assets/Bundle/Scene/title_cow.unity
+- Assets/Bundle/Scene/title_sheep.unity
+- Assets/Bundle/Scene/title_otter.unity
+- Assets/Bundle/Scene/title_alpaca.unity
+- Assets/Bundle/Scene/title_lion.unity
+- Assets/Bundle/Scene/title_furseal.unity
+Dependencies:
+- AssetBundles/iOS/global.unity3d

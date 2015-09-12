@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: e9c1d97b22aa14536ac1351a2b0932b9
+timeCreated: 1441904516
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: alpaca
+    21300002: bear
+    21300004: boo
+    21300006: cameleon
+    21300008: chick
+    21300010: chicken
+    21300012: cow
+    21300014: crocodile
+    21300016: elephant
+    21300018: frog
+    21300020: furseal
+    21300022: gibbon
+    21300024: giraffe
+    21300026: greenturtle
+    21300028: hippopotamus
+    21300030: horse
+    21300032: jindo
+    21300034: lion
+    21300036: lioness
+    21300038: loli
+    21300040: naru
+    21300042: otter
+    21300044: panda
+    21300046: penguin
+    21300048: persian
+    21300050: pig
+    21300052: pigblack
+    21300054: polarbear
+    21300056: pomeranian
+    21300058: pomewhite
+    21300060: rabbit
+    21300062: raccoon
+    21300064: santa
+    21300066: sealion
+    21300068: sheep
+    21300070: soan
+    21300072: welshcorgi
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 400
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: alpaca
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 902
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bear
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 780
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boo
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 658
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cameleon
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 536
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chick
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 414
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 292
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cow
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 170
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crocodile
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 48
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elephant
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 902
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 902
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: furseal
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 902
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gibbon
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 902
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: giraffe
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 902
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greenturtle
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 902
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hippopotamus
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 902
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: horse
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 780
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jindo
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 658
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lion
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 536
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lioness
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 414
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loli
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 292
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: naru
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 170
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: otter
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 48
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: panda
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 780
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: penguin
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 780
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: persian
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 780
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pig
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 780
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pigblack
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 780
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: polarbear
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 780
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pomeranian
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 658
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pomewhite
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 536
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rabbit
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 414
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: raccoon
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 292
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: santa
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 170
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sealion
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 48
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sheep
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 658
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soan
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 658
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: welshcorgi
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 658
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: ui_title.unity3d
+  assetBundleVariant: 

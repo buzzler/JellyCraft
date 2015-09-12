@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 690ce5f93c6c14891bab3b42154277be
+timeCreated: 1441787578
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: alaska_bear_01
+    21300002: alaska_bear_02
+    21300004: alaska_bear_03
+    21300006: alaska_bear_04
+    21300008: alaska_bear_05
+    21300010: alaska_bear_06
+    21300012: alaska_bear_07
+    21300014: alaska_bear_08
+    21300016: alaska_bear_10_1
+    21300018: alaska_bear_10_2
+    21300020: alaska_bear_11_1
+    21300022: alaska_bear_11_2
+    21300024: alaska_bear_fish
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: alaska_bear_01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1692
+        width: 850
+        height: 354
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alaska_bear_02
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 953
+        width: 850
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alaska_bear_03
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 918
+        width: 850
+        height: 186
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alaska_bear_04
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1159
+        width: 850
+        height: 225
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alaska_bear_05
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1386
+        width: 850
+        height: 314
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alaska_bear_06
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1702
+        width: 850
+        height: 344
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alaska_bear_07
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1998
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alaska_bear_08
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 1965
+        width: 140
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alaska_bear_10_1
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 845
+        width: 850
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alaska_bear_10_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 810
+        width: 850
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alaska_bear_11_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1399
+        width: 850
+        height: 291
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alaska_bear_11_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1106
+        width: 850
+        height: 291
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alaska_bear_fish
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 1982
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: global.unity3d
+  assetBundleVariant: 

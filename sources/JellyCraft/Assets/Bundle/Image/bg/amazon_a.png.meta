@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 81d054f51b33b4ebfaa3bbd68f0f58b4
+timeCreated: 1441840410
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: amazone_01
+    21300002: amazone_02
+    21300004: amazone_03
+    21300006: amazone_04
+    21300008: amazone_05
+    21300010: amazone_06
+    21300012: amazone_07
+    21300014: amazone_08
+    21300016: amazone_09
+    21300018: amazone_10_1
+    21300020: amazone_10_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: amazone_01
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1561
+        width: 850
+        height: 485
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: amazone_02
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1170
+        width: 850
+        height: 389
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: amazone_03
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1269
+        width: 850
+        height: 777
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: amazone_04
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 544
+        width: 850
+        height: 723
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: amazone_05
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 881
+        width: 850
+        height: 287
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: amazone_06
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 503
+        width: 850
+        height: 172
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: amazone_07
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 677
+        width: 850
+        height: 202
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: amazone_08
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 22
+        width: 850
+        height: 520
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: amazone_09
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 348
+        width: 850
+        height: 153
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: amazone_10_1
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 178
+        width: 366
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: amazone_10_2
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 178
+        width: 366
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: global.unity3d
+  assetBundleVariant: 

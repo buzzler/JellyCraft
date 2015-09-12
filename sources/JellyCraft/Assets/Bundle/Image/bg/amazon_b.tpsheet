@@ -1,0 +1,15 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: amazon_b.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:a7e1094c6dbbfbc8da235235b560197e:a28ea508f7247bf8bcb311ef91c428b2:4aad4fe156d31ab3ed80301b412d6c42$
+#
+
+amazone_10_shine;2;19;425;675;0.5;0.5
+amazone_11;856;284;850;410;0.5;0.5
+amazone_16_1;2;696;850;1350;0.5;0.5
+amazone_16_2;854;696;850;1350;0.5;0.5
+amazone_16_shine;429;19;425;675;0.5;0.5

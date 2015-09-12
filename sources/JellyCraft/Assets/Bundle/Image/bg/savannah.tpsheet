@@ -1,0 +1,26 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: savannah.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:028f700e237576bf5b2f0bd830e15928:77378771217dda730a5b063cd0c05725:61722e98c38f2b5ccc32da538caaf2c2$
+#
+
+savannah_01;2;1024;850;282;0.5;0.5
+savannah_02;856;651;850;148;0.5;0.5
+savannah_03;856;449;850;94;0.5;0.5
+savannah_04;856;545;850;104;0.5;0.5
+savannah_06;854;1697;850;349;0.5;0.5
+savannah_07_deer;1865;1536;111;111;0.5;0.5
+savannah_08;854;1060;850;286;0.5;0.5
+savannah_10;854;1348;850;347;0.5;0.5
+savannah_11_deer;1706;1459;157;188;0.5;0.5
+savannah_12;2;1308;850;330;0.5;0.5
+savannah_13;854;801;850;257;0.5;0.5
+savannah_14;2;1640;850;406;0.5;0.5
+savannah_15;2;769;850;253;0.5;0.5
+savannah_16_1;2;92;425;675;0.5;0.5
+savannah_16_2;429;92;425;675;0.5;0.5
+savannah_17_shine;1706;1649;250;397;0.5;0.5

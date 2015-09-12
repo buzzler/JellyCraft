@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 73300e31301e54e5ebc272d91e499202
+timeCreated: 1441803373
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: black
+    21300002: button_normal
+    21300004: button_press
+    21300006: checkbox
+    21300008: checkbox_cross
+    21300010: checkbox_select
+    21300012: input
+    21300014: progress_bg
+    21300016: progress_fg
+    21300018: radio
+    21300020: radio_select
+    21300022: slider_bg
+    21300024: slider_circle
+    21300026: slider_dot
+    21300028: slider_square
+    21300030: switch_bg
+    21300032: switch_inner
+    21300034: white
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: black
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 39
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button_normal
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 87
+        width: 73
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 3, y: 4, z: 3, w: 3}
+    - name: button_press
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 46
+        width: 73
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 3, y: 4, z: 3, w: 3}
+    - name: checkbox
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 86
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 3, y: 4, z: 3, w: 3}
+    - name: checkbox_cross
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 59
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: checkbox_select
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 73
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: input
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 93
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: progress_bg
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 46
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 5, y: 5, z: 5, w: 4}
+    - name: progress_fg
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 39
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 5, y: 5, z: 5, w: 4}
+    - name: radio
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 68
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 7, y: 8, z: 8, w: 7}
+    - name: radio_select
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 117
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slider_bg
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 52
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 6, y: 6, z: 6, w: 5}
+    - name: slider_circle
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 106
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slider_dot
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 106
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slider_square
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 87
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: switch_bg
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 51
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 7, y: 7, z: 7, w: 6}
+    - name: switch_inner
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 67
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: white
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 34
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

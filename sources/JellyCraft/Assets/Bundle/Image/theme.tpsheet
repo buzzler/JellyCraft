@@ -1,0 +1,47 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: theme.png (1024 x 1024)
+# $TexturePacker:SmartUpdate:91615b3c5688719b9a23ec4e10f0611c:b1a18a5de0667888cb0d65d83ed1d8ad:bc70032142104dd9067e1ac18f22a49b$
+#
+
+alpaca;2;902;120;120;0.5;0.5
+bear;2;780;120;120;0.5;0.5
+boo;2;658;120;120;0.5;0.5
+cameleon;2;536;120;120;0.5;0.5
+chick;2;414;120;120;0.5;0.5
+chicken;2;292;120;120;0.5;0.5
+cow;2;170;120;120;0.5;0.5
+crocodile;2;48;120;120;0.5;0.5
+elephant;124;902;120;120;0.5;0.5
+frog;246;902;120;120;0.5;0.5
+furseal;368;902;120;120;0.5;0.5
+gibbon;490;902;120;120;0.5;0.5
+giraffe;612;902;120;120;0.5;0.5
+greenturtle;734;902;120;120;0.5;0.5
+hippopotamus;856;902;120;120;0.5;0.5
+horse;124;780;120;120;0.5;0.5
+jindo;124;658;120;120;0.5;0.5
+lion;124;536;120;120;0.5;0.5
+lioness;124;414;120;120;0.5;0.5
+loli;124;292;120;120;0.5;0.5
+naru;124;170;120;120;0.5;0.5
+otter;124;48;120;120;0.5;0.5
+panda;246;780;120;120;0.5;0.5
+penguin;368;780;120;120;0.5;0.5
+persian;490;780;120;120;0.5;0.5
+pig;612;780;120;120;0.5;0.5
+pigblack;734;780;120;120;0.5;0.5
+polarbear;856;780;120;120;0.5;0.5
+pomeranian;246;658;120;120;0.5;0.5
+pomewhite;246;536;120;120;0.5;0.5
+rabbit;246;414;120;120;0.5;0.5
+raccoon;246;292;120;120;0.5;0.5
+santa;246;170;120;120;0.5;0.5
+sealion;246;48;120;120;0.5;0.5
+sheep;368;658;120;120;0.5;0.5
+soan;490;658;120;120;0.5;0.5
+welshcorgi;612;658;120;120;0.5;0.5

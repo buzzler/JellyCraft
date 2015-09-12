@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" url="http://file.unityscene.com/util/bundle/config.xml">
+	<BundleRoot>
+	  <Bundle id="global" dynamic="true" ios="http://file.unityscene.com/util/bundle/ios/global.unity3d" android="http://file.unityscene.com/util/bundle/android/global.unity3d" version="2" />
+	  <Bundle id="ui_title" dynamic="true" ios="http://file.unityscene.com/util/bundle/ios/ui_title.unity3d" android="http://file.unityscene.com/util/bundle/android/ui_title.unity3d" version="2" />
+	  <Bundle id="title" dynamic="true" ios="http://file.unityscene.com/util/bundle/ios/title.unity3d" android="http://file.unityscene.com/util/bundle/android/title.unity3d" version="2" />
+	  <Bundle id="adventure" dynamic="true" ios="http://file.unityscene.com/util/bundle/ios/adventure.unity3d" android="http://file.unityscene.com/util/bundle/android/adventure.unity3d" version="2" />
+	  <Bundle id="blitz" dynamic="true" ios="http://file.unityscene.com/util/bundle/ios/blitz.unity3d" android="http://file.unityscene.com/util/bundle/android/blitz.unity3d" version="2" />
+	</BundleRoot>
+	<UIRoot>
+	  <UITransition id="trans.scale_in" posX="0" posY="0" posZ="0" rotX="0" rotY="0" rotZ="0" scaleX="1.7" scaleY="1.7" scaleZ="1" colorR="1" colorG="1" colorB="1" colorA="1" time="1" delay="0" easetype="easeOutCubic" />
+	  <UITransition id="trans.scale_out" posX="0" posY="0" posZ="0" rotX="0" rotY="0" rotZ="0" scaleX="1.7" scaleY="1.7" scaleZ="1" colorR="1" colorG="1" colorB="1" colorA="1" time="0.5" delay="0" easetype="easeInBack" />
+	  <UIDetail id="title" asset="assets/bundle/prefab/ui/title.prefab" bundle="ui_title" posX="0" posY="0" posZ="0" rotX="0" rotY="0" rotZ="0" scaleX="1" scaleY="1" scaleZ="1" colorR="1" colorG="1" colorB="1" colorA="1" onInstantiate="trans.scale_in" onDestroy="trans.scale_out" onResume="trans.scale_in" onPause="trans.scale_out" onSwitchIn="trans.scale_in" onSwitchOut="trans.scale_out" />
+	  <UISet id="title" onPortrait="title" onLandscape="title" />
+	  <UICurtain id="blackout" asset="FAGE/Curtain/blackout" bundle="" />
+	  <UICurtain id="whiteout" asset="FAGE/Curtain/whiteout" bundle="" />
+	</UIRoot>
+	<AudioRoot id="root" volume="1">
+	  <AudioXML id="background" volume="1" channels="1" />
+	  <AudioXML id="effect" volume="1" channels="0">
+	  	<AudioXML id="coin" volume="1" channels="1"/>
+	  	<AudioXML id="voice" volume="1" channels="1"/>
+	  	<AudioXML id="fx" volume="1" channels="1"/>
+	  	<AudioXML id="score" volume="1" channels="1"/>
+	  </AudioXML>
+	</AudioRoot>
+</Config>
