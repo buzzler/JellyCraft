@@ -69,6 +69,7 @@ public	class FageUIMem : FageUICommonMem {
 	private void OnInstantiateComplete() {
 		FageScreenManager.Instance.AddEventListener (FageScreenEvent.ORIENTATION, OnScreenOrientation);
 		SetState (FageUICommonMem.INTANTIATED);
+		_component.OnUIInstantiated(this);
 	}
 
 	public	void Destroy() {
@@ -92,6 +93,7 @@ public	class FageUIMem : FageUICommonMem {
 	private	void OnResumeComplete() {
 		FageScreenManager.Instance.AddEventListener (FageScreenEvent.ORIENTATION, OnScreenOrientation);
 		SetState (FageUICommonMem.INTANTIATED);
+		_component.OnUIResumed(this);
 	}
 	
 	public	void Pause() {

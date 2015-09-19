@@ -19,7 +19,6 @@ public	class FageState {
 	}
 	
 	public	virtual	void AfterSwitch(FageStateMachine stateMachine, string beforeId = null) {
-		Debug.Log(this);
 	}
 	
 	public	virtual	void Excute(FageStateMachine stateMachine) {

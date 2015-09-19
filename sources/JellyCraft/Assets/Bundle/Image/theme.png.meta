@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: e9c1d97b22aa14536ac1351a2b0932b9
-timeCreated: 1441904516
+timeCreated: 1442424153
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -41,6 +41,21 @@ TextureImporter:
     21300068: sheep
     21300070: soan
     21300072: welshcorgi
+    21300074: black
+    21300076: btn_big_blue
+    21300078: btn_big_blue_click
+    21300080: btn_big_disable
+    21300082: btn_big_orange
+    21300084: btn_big_orange_click
+    21300086: icon_coin
+    21300088: icon_home
+    21300090: icon_lock
+    21300092: icon_restore
+    21300094: speakbox
+    21300096: star_able
+    21300098: star_disable
+    21300100: star_success
+    21300102: white
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -89,8 +104,8 @@ TextureImporter:
     - name: alpaca
       rect:
         serializedVersion: 2
-        x: 2
-        y: 902
+        x: 354
+        y: 771
         width: 120
         height: 120
       alignment: 0
@@ -99,28 +114,88 @@ TextureImporter:
     - name: bear
       rect:
         serializedVersion: 2
-        x: 2
-        y: 780
+        x: 476
+        y: 771
         width: 120
         height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: black
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1012
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: boo
       rect:
         serializedVersion: 2
-        x: 2
-        y: 658
+        x: 598
+        y: 771
         width: 120
         height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: btn_big_blue
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 893
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: btn_big_blue_click
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 893
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: btn_big_disable
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 893
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: btn_big_orange
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 893
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: btn_big_orange_click
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 893
+        width: 128
+        height: 129
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: cameleon
       rect:
         serializedVersion: 2
-        x: 2
-        y: 536
+        x: 720
+        y: 771
         width: 120
         height: 120
       alignment: 0
@@ -129,8 +204,8 @@ TextureImporter:
     - name: chick
       rect:
         serializedVersion: 2
-        x: 2
-        y: 414
+        x: 354
+        y: 649
         width: 120
         height: 120
       alignment: 0
@@ -139,8 +214,8 @@ TextureImporter:
     - name: chicken
       rect:
         serializedVersion: 2
-        x: 2
-        y: 292
+        x: 132
+        y: 641
         width: 120
         height: 120
       alignment: 0
@@ -150,7 +225,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2
-        y: 170
+        y: 607
         width: 120
         height: 120
       alignment: 0
@@ -159,8 +234,8 @@ TextureImporter:
     - name: crocodile
       rect:
         serializedVersion: 2
-        x: 2
-        y: 48
+        x: 476
+        y: 649
         width: 120
         height: 120
       alignment: 0
@@ -169,8 +244,8 @@ TextureImporter:
     - name: elephant
       rect:
         serializedVersion: 2
-        x: 124
-        y: 902
+        x: 598
+        y: 649
         width: 120
         height: 120
       alignment: 0
@@ -179,8 +254,8 @@ TextureImporter:
     - name: frog
       rect:
         serializedVersion: 2
-        x: 246
-        y: 902
+        x: 720
+        y: 649
         width: 120
         height: 120
       alignment: 0
@@ -189,8 +264,8 @@ TextureImporter:
     - name: furseal
       rect:
         serializedVersion: 2
-        x: 368
-        y: 902
+        x: 842
+        y: 642
         width: 120
         height: 120
       alignment: 0
@@ -199,8 +274,8 @@ TextureImporter:
     - name: gibbon
       rect:
         serializedVersion: 2
-        x: 490
-        y: 902
+        x: 254
+        y: 527
         width: 120
         height: 120
       alignment: 0
@@ -209,8 +284,8 @@ TextureImporter:
     - name: giraffe
       rect:
         serializedVersion: 2
-        x: 612
-        y: 902
+        x: 124
+        y: 519
         width: 120
         height: 120
       alignment: 0
@@ -219,8 +294,8 @@ TextureImporter:
     - name: greenturtle
       rect:
         serializedVersion: 2
-        x: 734
-        y: 902
+        x: 2
+        y: 485
         width: 120
         height: 120
       alignment: 0
@@ -229,8 +304,8 @@ TextureImporter:
     - name: hippopotamus
       rect:
         serializedVersion: 2
-        x: 856
-        y: 902
+        x: 376
+        y: 527
         width: 120
         height: 120
       alignment: 0
@@ -239,18 +314,58 @@ TextureImporter:
     - name: horse
       rect:
         serializedVersion: 2
-        x: 124
-        y: 780
+        x: 498
+        y: 527
         width: 120
         height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_coin
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 894
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_home
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 764
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_lock
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 763
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_restore
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 729
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: jindo
       rect:
         serializedVersion: 2
-        x: 124
-        y: 658
+        x: 620
+        y: 527
         width: 120
         height: 120
       alignment: 0
@@ -259,8 +374,8 @@ TextureImporter:
     - name: lion
       rect:
         serializedVersion: 2
-        x: 124
-        y: 536
+        x: 742
+        y: 520
         width: 120
         height: 120
       alignment: 0
@@ -269,8 +384,8 @@ TextureImporter:
     - name: lioness
       rect:
         serializedVersion: 2
-        x: 124
-        y: 414
+        x: 864
+        y: 520
         width: 120
         height: 120
       alignment: 0
@@ -279,8 +394,8 @@ TextureImporter:
     - name: loli
       rect:
         serializedVersion: 2
-        x: 124
-        y: 292
+        x: 2
+        y: 363
         width: 120
         height: 120
       alignment: 0
@@ -289,8 +404,8 @@ TextureImporter:
     - name: naru
       rect:
         serializedVersion: 2
-        x: 124
-        y: 170
+        x: 2
+        y: 241
         width: 120
         height: 120
       alignment: 0
@@ -299,8 +414,8 @@ TextureImporter:
     - name: otter
       rect:
         serializedVersion: 2
-        x: 124
-        y: 48
+        x: 2
+        y: 119
         width: 120
         height: 120
       alignment: 0
@@ -310,7 +425,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 246
-        y: 780
+        y: 405
         width: 120
         height: 120
       alignment: 0
@@ -319,8 +434,8 @@ TextureImporter:
     - name: penguin
       rect:
         serializedVersion: 2
-        x: 368
-        y: 780
+        x: 124
+        y: 397
         width: 120
         height: 120
       alignment: 0
@@ -329,8 +444,8 @@ TextureImporter:
     - name: persian
       rect:
         serializedVersion: 2
-        x: 490
-        y: 780
+        x: 368
+        y: 405
         width: 120
         height: 120
       alignment: 0
@@ -339,8 +454,8 @@ TextureImporter:
     - name: pig
       rect:
         serializedVersion: 2
-        x: 612
-        y: 780
+        x: 490
+        y: 405
         width: 120
         height: 120
       alignment: 0
@@ -349,8 +464,8 @@ TextureImporter:
     - name: pigblack
       rect:
         serializedVersion: 2
-        x: 734
-        y: 780
+        x: 612
+        y: 405
         width: 120
         height: 120
       alignment: 0
@@ -359,8 +474,8 @@ TextureImporter:
     - name: polarbear
       rect:
         serializedVersion: 2
-        x: 856
-        y: 780
+        x: 734
+        y: 398
         width: 120
         height: 120
       alignment: 0
@@ -369,8 +484,8 @@ TextureImporter:
     - name: pomeranian
       rect:
         serializedVersion: 2
-        x: 246
-        y: 658
+        x: 856
+        y: 398
         width: 120
         height: 120
       alignment: 0
@@ -379,8 +494,8 @@ TextureImporter:
     - name: pomewhite
       rect:
         serializedVersion: 2
-        x: 246
-        y: 536
+        x: 124
+        y: 275
         width: 120
         height: 120
       alignment: 0
@@ -389,8 +504,8 @@ TextureImporter:
     - name: rabbit
       rect:
         serializedVersion: 2
-        x: 246
-        y: 414
+        x: 124
+        y: 153
         width: 120
         height: 120
       alignment: 0
@@ -399,8 +514,8 @@ TextureImporter:
     - name: raccoon
       rect:
         serializedVersion: 2
-        x: 246
-        y: 292
+        x: 124
+        y: 31
         width: 120
         height: 120
       alignment: 0
@@ -410,7 +525,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 246
-        y: 170
+        y: 276
         width: 120
         height: 120
       alignment: 0
@@ -420,7 +535,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 246
-        y: 48
+        y: 154
         width: 120
         height: 120
       alignment: 0
@@ -429,8 +544,8 @@ TextureImporter:
     - name: sheep
       rect:
         serializedVersion: 2
-        x: 368
-        y: 658
+        x: 246
+        y: 32
         width: 120
         height: 120
       alignment: 0
@@ -439,20 +554,70 @@ TextureImporter:
     - name: soan
       rect:
         serializedVersion: 2
-        x: 490
-        y: 658
+        x: 368
+        y: 283
         width: 120
         height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: speakbox
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 859
+        width: 220
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 60, y: 80, z: 100, w: 60}
+    - name: star_able
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 812
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: star_disable
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 812
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: star_success
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 765
+        width: 44
+        height: 45
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: welshcorgi
       rect:
         serializedVersion: 2
-        x: 612
-        y: 658
+        x: 490
+        y: 283
         width: 120
         height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: white
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1000
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}

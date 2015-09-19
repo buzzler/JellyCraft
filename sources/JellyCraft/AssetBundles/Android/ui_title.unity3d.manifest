@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2164917041
+CRC: 3998419558
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1f4632e203c2883a579e16873900275f
+    Hash: 4859f29205e989774f06f457f5be310c
   TypeTreeHash:
     serializedVersion: 2
-    Hash: ebc4174e052fc3c8824fe3d7a6c2b399
+    Hash: 1be5b1046bae15d2caf2ee03dc9bbbc3
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -20,13 +20,27 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
 - Class: 114
+  Script: {fileID: -1862395651, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
   Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
 - Class: 114
   Script: {fileID: -900027084, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
 - Class: 114
+  Script: {fileID: 1367256648, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
   Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 74221815363bb4b64976242825106f3a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2dd90a96efc7045ab8b4c006565be966, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3b2cd7571371d4dd49f70ebdb10af73e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: faa7e3b8d23164d1295de65b1f604d1e, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 0255f38ad5d7d46d5abdd56fafbedcb4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3db6713f9449343b084c73b5d6804a50, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -39,6 +53,8 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/Bundle/Prefab/UI/title.prefab
+- Assets/Bundle/Prefab/UI/title_adventure.prefab
 - Assets/Bundle/Image/title.png
 - Assets/Bundle/Image/theme.png
+- Assets/Bundle/Prefab/UI/gallery.prefab
 Dependencies: []

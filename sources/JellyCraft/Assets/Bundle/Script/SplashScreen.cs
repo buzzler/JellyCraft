@@ -7,7 +7,7 @@ public class SplashScreen : MonoBehaviour {
 	}
 
 	private	void OnStart() {
-		FageUIManager.Instance.Level("title_alpaca", FageUIRoot.Instance.FindUICurtain("blackout"));
+		FageUIManager.Instance.Level("title_horse", FageUIRoot.Instance.FindUICurtain("blackout"));
 		FageUIManager.Instance.Change(FageUIRoot.Instance.FindUISet("title"));
 	}
 }
