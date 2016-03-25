@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: e9c1d97b22aa14536ac1351a2b0932b9
-timeCreated: 1442424153
+timeCreated: 1443721868
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -78,8 +78,8 @@ TextureImporter:
   cubemapConvolutionSteps: 8
   cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
-  textureFormat: -3
-  maxTextureSize: 4096
+  textureFormat: -2
+  maxTextureSize: 1024
   textureSettings:
     filterMode: 1
     aniso: 16
@@ -150,7 +150,7 @@ TextureImporter:
         height: 129
       alignment: 0
       pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 62, y: 62, z: 62, w: 62}
     - name: btn_big_blue_click
       rect:
         serializedVersion: 2
@@ -160,7 +160,7 @@ TextureImporter:
         height: 129
       alignment: 0
       pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 62, y: 62, z: 62, w: 62}
     - name: btn_big_disable
       rect:
         serializedVersion: 2
@@ -170,7 +170,7 @@ TextureImporter:
         height: 129
       alignment: 0
       pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 62, y: 62, z: 62, w: 62}
     - name: btn_big_orange
       rect:
         serializedVersion: 2
@@ -180,7 +180,7 @@ TextureImporter:
         height: 129
       alignment: 0
       pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 62, y: 62, z: 62, w: 62}
     - name: btn_big_orange_click
       rect:
         serializedVersion: 2
@@ -190,7 +190,7 @@ TextureImporter:
         height: 129
       alignment: 0
       pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 62, y: 62, z: 62, w: 62}
     - name: cameleon
       rect:
         serializedVersion: 2

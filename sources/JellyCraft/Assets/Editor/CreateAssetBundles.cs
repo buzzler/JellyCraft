@@ -13,4 +13,10 @@ public class CreateAssetBundles
 	static void BuildAllAssetBundlesAndroid () {
 		BuildPipeline.BuildAssetBundles ("AssetBundles/Android", BuildAssetBundleOptions.UncompressedAssetBundle | BuildAssetBundleOptions.ForceRebuildAssetBundle, BuildTarget.Android);
 	}
+
+	[MenuItem ("Assets/Build AssetBundles Mobile")]
+	static void BuildAllAssetBundleMobile() {
+		BuildAllAssetBundlesIOS();
+		BuildAllAssetBundlesAndroid();
+	}
 }

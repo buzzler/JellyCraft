@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: c0ed386648e9848de91efe4b8a681092
+timeCreated: 1443024653
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UI_BOX_source_01
+    21300002: UI_BOX_source_02
+    21300004: UI_BOX_source_03
+    21300006: UI_BOX_source_04
+    21300008: UI_BOX_source_05
+    21300010: UI_BOX_source_06
+    21300012: UI_BOX_source_07
+    21300014: UI_BOX_source_08
+    21300016: UI_BOX_source_09
+    21300018: UI_BOX_source_10
+    21300020: UI_BOX_source_11
+    21300022: UI_BOX_source_12
+    21300024: icon_cow_120_01
+    21300026: icon_cow_120_02
+    21300028: icon_cow_160_01
+    21300030: icon_cow_160_02
+    21300032: icon_cow_50_01
+    21300034: icon_cow_50_02
+    21300036: icon_cow_80_01
+    21300038: icon_cow_80_02
+    21300040: icon_crocodile_120_01
+    21300042: icon_crocodile_120_02
+    21300044: icon_crocodile_160_01
+    21300046: icon_crocodile_160_02
+    21300048: icon_crocodile_50_01
+    21300050: icon_crocodile_50_02
+    21300052: icon_crocodile_80_01
+    21300054: icon_crocodile_80_02
+    21300056: icon_elephant_120_01
+    21300058: icon_elephant_120_02
+    21300060: icon_elephant_160_01
+    21300062: icon_elephant_160_02
+    21300064: icon_elephant_50_01
+    21300066: icon_elephant_50_02
+    21300068: icon_elephant_80_01
+    21300070: icon_elephant_80_02
+    21300072: icon_frog_120_01
+    21300074: icon_frog_120_02
+    21300076: icon_frog_160_01
+    21300078: icon_frog_160_02
+    21300080: icon_frog_50_01
+    21300082: icon_frog_50_02
+    21300084: icon_frog_80_01
+    21300086: icon_frog_80_02
+    21300088: icon_furseal_120_01
+    21300090: icon_furseal_120_02
+    21300092: icon_furseal_160_01
+    21300094: icon_furseal_160_02
+    21300096: icon_furseal_50_01
+    21300098: icon_furseal_50_02
+    21300100: icon_furseal_80_01
+    21300102: icon_furseal_80_02
+    21300104: icon_gibbon_120_01
+    21300106: icon_gibbon_120_02
+    21300108: icon_gibbon_160_01
+    21300110: icon_gibbon_160_02
+    21300112: icon_gibbon_50_01
+    21300114: icon_gibbon_50_02
+    21300116: icon_gibbon_80_01
+    21300118: icon_gibbon_80_02
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: UI_BOX_source_01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 862
+        width: 180
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_BOX_source_02
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 700
+        width: 180
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_BOX_source_03
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 862
+        width: 180
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_BOX_source_04
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 538
+        width: 180
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_BOX_source_05
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 700
+        width: 180
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_BOX_source_06
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 862
+        width: 180
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_BOX_source_07
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 376
+        width: 180
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_BOX_source_08
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 538
+        width: 180
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_BOX_source_09
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 700
+        width: 180
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_BOX_source_10
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 862
+        width: 180
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_BOX_source_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 214
+        width: 180
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_BOX_source_12
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 376
+        width: 180
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_cow_120_01
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 902
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_cow_120_02
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 92
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_cow_160_01
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 538
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_cow_160_02
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 700
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_cow_50_01
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 238
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_cow_50_02
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 198
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_cow_80_01
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 10
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_cow_80_02
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 10
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_crocodile_120_01
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 254
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_crocodile_120_02
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 416
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_crocodile_160_01
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 862
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_crocodile_160_02
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 52
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_crocodile_50_01
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 146
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_crocodile_50_02
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 94
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_crocodile_80_01
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 10
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_crocodile_80_02
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 50
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_elephant_120_01
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 92
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_elephant_120_02
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 254
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_elephant_160_01
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 214
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_elephant_160_02
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 376
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_elephant_50_01
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 42
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_elephant_50_02
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 238
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_elephant_80_01
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 50
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_elephant_80_02
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 50
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_frog_120_01
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 132
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_frog_120_02
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 132
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_frog_160_01
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 538
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_frog_160_02
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 700
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_frog_50_01
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 186
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_frog_50_02
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 186
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_frog_80_01
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 454
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_frog_80_02
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 372
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_furseal_120_01
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 780
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_furseal_120_02
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 658
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_furseal_160_01
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 52
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_furseal_160_02
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 214
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_furseal_50_01
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 186
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_furseal_50_02
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 134
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_furseal_80_01
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 290
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_furseal_80_02
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 332
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_gibbon_120_01
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 536
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_gibbon_120_02
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 414
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_gibbon_160_01
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 376
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_gibbon_160_02
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 538
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_gibbon_50_01
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 82
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_gibbon_50_02
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 134
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_gibbon_80_01
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 250
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_gibbon_80_02
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 290
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

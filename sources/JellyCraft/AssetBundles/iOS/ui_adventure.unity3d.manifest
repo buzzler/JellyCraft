@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 1651870215
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6ffbc1a8a3ac677b43505b8c04e11114
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 62f7afc221af4350fffa769b614daac0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 88f1deb69e1fc4edaa025ca259978e8d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d4aeb41ae8bd9451e99c2582d6a20c85, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2c560aebd50d54c36ae9529a43c44aec, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7011b68fa24cb4f67b3ee21abcdb77d3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf9d3fdf02dc84444bbccefab147c0ed, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundle/Prefab/UI/adventure_standby.prefab
+- Assets/Bundle/Prefab/UI/adventure_gameover.prefab
+- Assets/Bundle/Prefab/UI/adventure_victory.prefab
+- Assets/Bundle/Prefab/UI/adventure.prefab
+Dependencies:
+- AssetBundles/iOS/ui_title.unity3d

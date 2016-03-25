@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 7af608e489df54ed0a7f92d9abc43a50
+timeCreated: 1443025580
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: btn_normal_blue
+    21300002: btn_normal_blue_click
+    21300004: btn_normal_disable
+    21300006: icon_pause
+    21300008: slot_a_01
+    21300010: slot_a_02
+    21300012: string_gameover
+    21300014: string_go
+    21300016: string_ready
+    21300018: string_victory
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: btn_normal_blue
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 23
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 32, y: 32, z: 32, w: 32}
+    - name: btn_normal_blue_click
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 85
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 32, y: 32, z: 32, w: 32}
+    - name: btn_normal_disable
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 15
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 32, y: 32, z: 32, w: 32}
+    - name: icon_pause
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 126
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slot_a_01
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 209
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 16, y: 16, z: 16, w: 16}
+    - name: slot_a_02
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 162
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 16, y: 16, z: 16, w: 16}
+    - name: string_gameover
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 155
+        width: 477
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: string_go
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 93
+        width: 352
+        height: 161
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: string_ready
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5
+        width: 283
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: string_victory
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 3
+        width: 512
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -29,11 +29,13 @@ public class CameraEffectorTween : FageState {
 		}
 
 		if (request.second > 0) {
-			if (_presetFrom.blurSize != _presetTo.blurSize)
+			if ((_presetFrom.blurSize != _presetTo.blurSize) &&
+				(_presetFrom.blurEnable != _presetTo.blurEnable))
 				_blur.enabled = true;
 			if ((_presetFrom.screenSaturation != _presetTo.screenSaturation) ||
 			    (_presetFrom.chromaticAberrationMagnetude != _presetTo.chromaticAberrationMagnetude) ||
-			    (_presetFrom.staticMagnetude != _presetTo.staticMagnetude))
+			    (_presetFrom.staticMagnetude != _presetTo.staticMagnetude) &&
+			    (_presetFrom.screenEnable != _presetTo.screenEnable))
 				_screen.enabled = true;
 			LeanTween.value(_effector.gameObject, 0f, 1f, request.second).setOnUpdate(OnTweenUpdate).setOnComplete(OnTweenComplete);
 		} else {

@@ -54,7 +54,7 @@ public class TitleAdventure : MonoBehaviour, IFageUIComponent {
 		FageUIManager manager = FageUIManager.Instance;
 		manager.Pop();
 		manager.Level("adventure_alaska_a", FageUIRoot.Instance.FindUICurtain("blackout"));
-//		manager.Push(FageUIRoot.Instance.FindUISet("adventure"));
+		manager.Push(FageUIRoot.Instance.FindUISet("adventure"));
 	}
 
 	public	void OnUIDestroy(FageUIMem mem) {}

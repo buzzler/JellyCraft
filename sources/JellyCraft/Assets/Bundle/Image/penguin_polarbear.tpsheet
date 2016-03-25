@@ -1,0 +1,62 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: penguin_polarbear.png (1024 x 1024)
+# $TexturePacker:SmartUpdate:f50b828eb354e1b4b01a9c0e4c04d107:a18579882108619604d6a70d010f8d66:b89e038593a90a204f4e1a70204e49fa$
+#
+
+UI_BOX_source_01;2;862;180;160;0.5;0.5
+UI_BOX_source_02;184;862;180;160;0.5;0.5
+UI_BOX_source_03;366;862;180;160;0.5;0.5
+UI_BOX_source_04;548;862;180;160;0.5;0.5
+UI_BOX_source_05;730;862;180;160;0.5;0.5
+UI_BOX_source_06;2;698;180;160;0.5;0.5
+UI_BOX_source_07;2;536;180;160;0.5;0.5
+UI_BOX_source_08;2;374;180;160;0.5;0.5
+UI_BOX_source_09;2;212;180;160;0.5;0.5
+UI_BOX_source_10;2;50;180;160;0.5;0.5
+UI_BOX_source_11;184;700;180;160;0.5;0.5
+UI_BOX_source_12;366;700;180;160;0.5;0.5
+icon_penguin_120_01;872;738;120;120;0.5;0.5
+icon_penguin_120_02;872;616;120;120;0.5;0.5
+icon_penguin_160_01;548;700;160;160;0.5;0.5
+icon_penguin_160_02;710;700;160;160;0.5;0.5
+icon_penguin_50_01;348;648;50;50;0.5;0.5
+icon_penguin_50_02;346;198;50;50;0.5;0.5
+icon_penguin_80_01;912;942;80;80;0.5;0.5
+icon_penguin_80_02;912;860;80;80;0.5;0.5
+icon_persian_120_01;184;8;120;120;0.5;0.5
+icon_persian_120_02;306;8;120;120;0.5;0.5
+icon_persian_160_01;184;454;160;160;0.5;0.5
+icon_persian_160_02;184;292;160;160;0.5;0.5
+icon_persian_50_01;346;146;50;50;0.5;0.5
+icon_persian_50_02;398;198;50;50;0.5;0.5
+icon_persian_80_01;184;618;80;80;0.5;0.5
+icon_persian_80_02;266;618;80;80;0.5;0.5
+icon_pig_120_01;346;250;120;120;0.5;0.5
+icon_pig_120_02;428;24;120;120;0.5;0.5
+icon_pig_160_01;184;130;160;160;0.5;0.5
+icon_pig_160_02;428;538;160;160;0.5;0.5
+icon_pig_50_01;398;146;50;50;0.5;0.5
+icon_pig_50_02;450;198;50;50;0.5;0.5
+icon_pig_80_01;346;536;80;80;0.5;0.5
+icon_pig_80_02;752;618;80;80;0.5;0.5
+icon_pigblack_120_01;468;254;120;120;0.5;0.5
+icon_pigblack_120_02;550;28;120;120;0.5;0.5
+icon_pigblack_160_01;590;538;160;160;0.5;0.5
+icon_pigblack_160_02;834;454;160;160;0.5;0.5
+icon_pigblack_50_01;450;146;50;50;0.5;0.5
+icon_pigblack_50_02;502;202;50;50;0.5;0.5
+icon_pigblack_80_01;752;536;80;80;0.5;0.5
+icon_pigblack_80_02;346;454;80;80;0.5;0.5
+icon_polarbear_120_01;590;254;120;120;0.5;0.5
+icon_polarbear_120_02;672;132;120;120;0.5;0.5
+icon_polarbear_160_01;428;376;160;160;0.5;0.5
+icon_polarbear_160_02;590;376;160;160;0.5;0.5
+icon_polarbear_50_01;502;150;50;50;0.5;0.5
+icon_polarbear_50_02;554;202;50;50;0.5;0.5
+icon_polarbear_80_01;346;372;80;80;0.5;0.5
+icon_polarbear_80_02;752;454;80;80;0.5;0.5

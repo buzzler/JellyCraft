@@ -1,23 +1,36 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" url="http://file.unityscene.com/util/bundle/config.xml">
 	<BundleRoot>
-	  <Bundle id="global" dynamic="false" ios="http://file.unityscene.com/util/bundle/ios/global.unity3d" android="http://file.unityscene.com/util/bundle/android/global.unity3d" version="2" />
-	  <Bundle id="ui_title" dynamic="true" ios="http://file.unityscene.com/util/bundle/ios/ui_title.unity3d" android="http://file.unityscene.com/util/bundle/android/ui_title.unity3d" version="2" />
-	  <Bundle id="title" dynamic="true" ios="http://file.unityscene.com/util/bundle/ios/title.unity3d" android="http://file.unityscene.com/util/bundle/android/title.unity3d" version="2" />
-	  <Bundle id="adventure" dynamic="true" ios="http://file.unityscene.com/util/bundle/ios/adventure.unity3d" android="http://file.unityscene.com/util/bundle/android/adventure.unity3d" version="2" />
-	  <Bundle id="blitz" dynamic="true" ios="http://file.unityscene.com/util/bundle/ios/blitz.unity3d" android="http://file.unityscene.com/util/bundle/android/blitz.unity3d" version="2" />
+	  <Bundle id="global" dynamic="false" ios="http://file.unityscene.com/util/bundle/iOS/global.unity3d" android="http://file.unityscene.com/util/bundle/Android/global.unity3d" version="2" />
+	  <Bundle id="ui_title" dynamic="true" ios="http://file.unityscene.com/util/bundle/iOS/ui_title.unity3d" android="http://file.unityscene.com/util/bundle/Android/ui_title.unity3d" version="2" />
+	  <Bundle id="ui_adventure" dynamic="true" ios="http://file.unityscene.com/util/bundle/iOS/ui_adventure.unity3d" android="http://file.unityscene.com/util/bundle/Android/ui_adventure.unity3d" version="2" />
+	  <Bundle id="title" dynamic="true" ios="http://file.unityscene.com/util/bundle/iOS/title.unity3d" android="http://file.unityscene.com/util/bundle/Android/title.unity3d" version="2" />
+	  <Bundle id="adventure" dynamic="true" ios="http://file.unityscene.com/util/bundle/iOS/adventure.unity3d" android="http://file.unityscene.com/util/bundle/Android/adventure.unity3d" version="2" />
+	  <Bundle id="blitz" dynamic="true" ios="http://file.unityscene.com/util/bundle/iOS/blitz.unity3d" android="http://file.unityscene.com/util/bundle/Android/blitz.unity3d" version="2" />
 	</BundleRoot>
 	<UIRoot>
 	  <UITransition id="trans.scale_in" posX="0" posY="0" posZ="0" rotX="0" rotY="0" rotZ="0" scaleX="1.7" scaleY="1.7" scaleZ="1" colorR="1" colorG="1" colorB="1" colorA="0" time="1" delay="0" easetype="easeOutCubic" />
 	  <UITransition id="trans.scale_out" posX="0" posY="0" posZ="0" rotX="0" rotY="0" rotZ="0" scaleX="1.7" scaleY="1.7" scaleZ="1" colorR="1" colorG="1" colorB="1" colorA="0" time="0.5" delay="0" easetype="easeInBack" />
 	  <UITransition id="trans.pop_in" posX="0" posY="0" posZ="0" rotX="0" rotY="0" rotZ="0" scaleX="0" scaleY="0" scaleZ="0" colorR="1" colorG="1" colorB="1" colorA="0" time="0.8" delay="0" easetype="easeOutElastic" />
 	  <UITransition id="trans.pop_out" posX="0" posY="0" posZ="0" rotX="0" rotY="0" rotZ="0" scaleX="0" scaleY="0" scaleZ="0" colorR="1" colorG="1" colorB="1" colorA="0" time="0.4" delay="0" easetype="easeInBack" />
+	  <UITransition id="trans.hide_down" posX="0" posY="-1400" posZ="0" rotX="0" rotY="0" rotZ="0" scaleX="1" scaleY="1" scaleZ="1" colorR="1" colorG="1" colorB="1" colorA="1" time="0.4" delay="0" easetype="easeInCubic" />
+	  <UITransition id="trans.hide_up" posX="0" posY="1400" posZ="0" rotX="0" rotY="0" rotZ="0" scaleX="1" scaleY="1" scaleZ="1" colorR="1" colorG="1" colorB="1" colorA="1" time="0.4" delay="0" easetype="easeInCubic" />
+	  <UITransition id="trans.show_down" posX="0" posY="1400" posZ="0" rotX="0" rotY="0" rotZ="0" scaleX="1" scaleY="1" scaleZ="1" colorR="1" colorG="1" colorB="1" colorA="1" time="0.4" delay="0" easetype="easeOutCubic" />
+	  <UITransition id="trans.show_up" posX="0" posY="-1400" posZ="0" rotX="0" rotY="0" rotZ="0" scaleX="1" scaleY="1" scaleZ="1" colorR="1" colorG="1" colorB="1" colorA="1" time="0.4" delay="0" easetype="easeOutCubic" />
 	  <UIDetail id="title" asset="assets/bundle/prefab/ui/title.prefab" bundle="ui_title" posX="0" posY="0" posZ="0" rotX="0" rotY="0" rotZ="0" scaleX="1" scaleY="1" scaleZ="1" colorR="1" colorG="1" colorB="1" colorA="1" onInstantiate="trans.scale_in" onDestroy="trans.scale_out" onResume="trans.scale_in" onPause="trans.scale_out" onSwitchIn="trans.scale_in" onSwitchOut="trans.scale_out" />
 	  <UIDetail id="title_adventure" asset="assets/bundle/prefab/ui/title_adventure.prefab" bundle="ui_title" posX="0" posY="0" posZ="0" rotX="0" rotY="0" rotZ="0" scaleX="1" scaleY="1" scaleZ="1" colorR="1" colorG="1" colorB="1" colorA="1" onInstantiate="trans.pop_in" onDestroy="trans.pop_out" onResume="trans.pop_in" onPause="trans.pop_out" onSwitchIn="trans.pop_in" onSwitchOut="trans.pop_out" />
 	  <UIDetail id="gallery" asset="assets/bundle/prefab/ui/gallery.prefab" bundle="ui_title" posX="0" posY="0" posZ="0" rotX="0" rotY="0" rotZ="0" scaleX="1" scaleY="1" scaleZ="1" colorR="1" colorG="1" colorB="1" colorA="1" onInstantiate="trans.scale_in" onDestroy="trans.scale_out" onResume="trans.scale_in" onPause="trans.scale_out" onSwitchIn="trans.scale_in" onSwitchOut="trans.scale_out" />
+	  <UIDetail id="adventure" asset="assets/bundle/prefab/ui/adventure.prefab" bundle="ui_adventure" posX="0" posY="0" posZ="0" rotX="0" rotY="0" rotZ="0" scaleX="1" scaleY="1" scaleZ="1" colorR="1" colorG="1" colorB="1" colorA="1" onInstantiate="trans.scale_in" onDestroy="trans.scale_out" onResume="trans.show_up" onPause="trans.hide_down" onSwitchIn="trans.show_up" onSwitchOut="trans.hide_down" />
+	  <UIDetail id="adventure_standby" asset="assets/bundle/prefab/ui/adventure_standby.prefab" bundle="ui_adventure" posX="0" posY="0" posZ="0" rotX="0" rotY="0" rotZ="0" scaleX="1" scaleY="1" scaleZ="1" colorR="1" colorG="1" colorB="1" colorA="1" onInstantiate="trans.show_down" onDestroy="trans.hide_up" onResume="trans.show_down" onPause="trans.hide_up" onSwitchIn="trans.show_down" onSwitchOut="trans.hide_up" />
+	  <UIDetail id="adventure_victory" asset="assets/bundle/prefab/ui/adventure_victory.prefab" bundle="ui_adventure" posX="0" posY="0" posZ="0" rotX="0" rotY="0" rotZ="0" scaleX="1" scaleY="1" scaleZ="1" colorR="1" colorG="1" colorB="1" colorA="1" onInstantiate="trans.pop_in" onDestroy="trans.pop_out" onResume="trans.pop_in" onPause="trans.pop_out" onSwitchIn="trans.pop_in" onSwitchOut="trans.pop_out" />
+	  <UIDetail id="adventure_gameover" asset="assets/bundle/prefab/ui/adventure_gameover.prefab" bundle="ui_adventure" posX="0" posY="0" posZ="0" rotX="0" rotY="0" rotZ="0" scaleX="1" scaleY="1" scaleZ="1" colorR="1" colorG="1" colorB="1" colorA="1" onInstantiate="trans.pop_in" onDestroy="trans.pop_out" onResume="trans.pop_in" onPause="trans.pop_out" onSwitchIn="trans.pop_in" onSwitchOut="trans.pop_out" />
 	  <UISet id="title" onPortrait="title" onLandscape="title" />
 	  <UISet id="title_adventure" onPortrait="title_adventure" onLandscape="title_adventure" />
 	  <UISet id="gallery" onPortrait="gallery" onLandscape="gallery" />
+	  <UISet id="adventure" onPortrait="adventure" onLandscape="adventure" />
+	  <UISet id="adventure_standby" onPortrait="adventure_standby" onLandscape="adventure_standby" />
+	  <UISet id="adventure_victory" onPortrait="adventure_victory" onLandscape="adventure_victory" />
+	  <UISet id="adventure_gameover" onPortrait="adventure_gameover" onLandscape="adventure_gameover" />
 	  <UICurtain id="blackout" asset="FAGE/Curtain/blackout" bundle="" />
 	  <UICurtain id="whiteout" asset="FAGE/Curtain/whiteout" bundle="" />
 	</UIRoot>

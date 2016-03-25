@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 576256234
+CRC: 3026113980
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 78ed3dfe5996a69c772f61f2e8e809e7
+    Hash: 6af243accf17ff36a6a082e7bd98e6db
   TypeTreeHash:
     serializedVersion: 2
     Hash: 7e1ef3c0c9c3d15fb6096aca100cee02
@@ -360,6 +360,7 @@ Assets:
 - Assets/Bundle/Image/character/alpaca_base.png
 - Assets/Bundle/Animation/bg_amazon_weather.controller
 - Assets/Bundle/Prefab/Head/jindo_1.prefab
+- Assets/Bundle/Image/character/panda_base_120.png
 - Assets/Bundle/Prefab/Head/lioness_1.prefab
 - Assets/Bundle/Image/character/loli_eye_01.png
 - Assets/Bundle/Image/character/greenturtle_base.png

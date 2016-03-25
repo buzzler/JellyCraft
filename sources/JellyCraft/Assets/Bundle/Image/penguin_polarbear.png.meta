@@ -1,0 +1,627 @@
+fileFormatVersion: 2
+guid: 6cf67fdd20bdb475e9162882a96a3434
+timeCreated: 1443024653
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UI_BOX_source_01
+    21300002: UI_BOX_source_02
+    21300004: UI_BOX_source_03
+    21300006: UI_BOX_source_04
+    21300008: UI_BOX_source_05
+    21300010: UI_BOX_source_06
+    21300012: UI_BOX_source_07
+    21300014: UI_BOX_source_08
+    21300016: UI_BOX_source_09
+    21300018: UI_BOX_source_10
+    21300020: UI_BOX_source_11
+    21300022: UI_BOX_source_12
+    21300024: icon_penguin_120_01
+    21300026: icon_penguin_120_02
+    21300028: icon_penguin_160_01
+    21300030: icon_penguin_160_02
+    21300032: icon_penguin_50_01
+    21300034: icon_penguin_50_02
+    21300036: icon_penguin_80_01
+    21300038: icon_penguin_80_02
+    21300040: icon_persian_120_01
+    21300042: icon_persian_120_02
+    21300044: icon_persian_160_01
+    21300046: icon_persian_160_02
+    21300048: icon_persian_50_01
+    21300050: icon_persian_50_02
+    21300052: icon_persian_80_01
+    21300054: icon_persian_80_02
+    21300056: icon_pig_120_01
+    21300058: icon_pig_120_02
+    21300060: icon_pig_160_01
+    21300062: icon_pig_160_02
+    21300064: icon_pig_50_01
+    21300066: icon_pig_50_02
+    21300068: icon_pig_80_01
+    21300070: icon_pig_80_02
+    21300072: icon_pigblack_120_01
+    21300074: icon_pigblack_120_02
+    21300076: icon_pigblack_160_01
+    21300078: icon_pigblack_160_02
+    21300080: icon_pigblack_50_01
+    21300082: icon_pigblack_50_02
+    21300084: icon_pigblack_80_01
+    21300086: icon_pigblack_80_02
+    21300088: icon_polarbear_120_01
+    21300090: icon_polarbear_120_02
+    21300092: icon_polarbear_160_01
+    21300094: icon_polarbear_160_02
+    21300096: icon_polarbear_50_01
+    21300098: icon_polarbear_50_02
+    21300100: icon_polarbear_80_01
+    21300102: icon_polarbear_80_02
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: UI_BOX_source_01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 862
+        width: 180
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_BOX_source_02
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 862
+        width: 180
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_BOX_source_03
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 862
+        width: 180
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_BOX_source_04
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 862
+        width: 180
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_BOX_source_05
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 862
+        width: 180
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_BOX_source_06
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 698
+        width: 180
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_BOX_source_07
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 536
+        width: 180
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_BOX_source_08
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 374
+        width: 180
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_BOX_source_09
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 212
+        width: 180
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_BOX_source_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 50
+        width: 180
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_BOX_source_11
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 700
+        width: 180
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_BOX_source_12
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 700
+        width: 180
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_penguin_120_01
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 738
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_penguin_120_02
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 616
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_penguin_160_01
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 700
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_penguin_160_02
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 700
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_penguin_50_01
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 648
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_penguin_50_02
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 198
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_penguin_80_01
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 942
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_penguin_80_02
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 860
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_persian_120_01
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 8
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_persian_120_02
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 8
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_persian_160_01
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 454
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_persian_160_02
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 292
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_persian_50_01
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 146
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_persian_50_02
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 198
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_persian_80_01
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 618
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_persian_80_02
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 618
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_pig_120_01
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 250
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_pig_120_02
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 24
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_pig_160_01
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 130
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_pig_160_02
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 538
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_pig_50_01
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 146
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_pig_50_02
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 198
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_pig_80_01
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 536
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_pig_80_02
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 618
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_pigblack_120_01
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 254
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_pigblack_120_02
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 28
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_pigblack_160_01
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 538
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_pigblack_160_02
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 454
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_pigblack_50_01
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 146
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_pigblack_50_02
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 202
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_pigblack_80_01
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 536
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_pigblack_80_02
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 454
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_polarbear_120_01
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 254
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_polarbear_120_02
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 132
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_polarbear_160_01
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 376
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_polarbear_160_02
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 376
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_polarbear_50_01
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 150
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_polarbear_50_02
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 202
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_polarbear_80_01
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 372
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_polarbear_80_02
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 454
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
