@@ -77,7 +77,7 @@ TextureImporter:
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
   grayScaleToAlpha: 0
@@ -87,7 +87,7 @@ TextureImporter:
   cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
-  maxTextureSize: 1024
+  maxTextureSize: 4096
   textureSettings:
     filterMode: -1
     aniso: 16
@@ -97,11 +97,12 @@ TextureImporter:
   lightmap: 0
   rGBM: 0
   compressionQuality: 50
+  allowsAlphaSplitting: 0
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
+  spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
   alphaIsTransparency: 1
@@ -117,8 +118,18 @@ TextureImporter:
         width: 180
         height: 160
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 55}
+        - {x: -50, y: 41}
+        - {x: -55, y: 20}
+        - {x: -55, y: -42}
+        - {x: -43, y: -55}
+        - {x: 48, y: -55}
+        - {x: 55, y: -22}
+        - {x: 55, y: 43}
+        - {x: 15, y: 55}
     - name: UI_BOX_source_02
       rect:
         serializedVersion: 2
@@ -127,8 +138,18 @@ TextureImporter:
         width: 180
         height: 160
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 55}
+        - {x: -50, y: 41}
+        - {x: -55, y: 20}
+        - {x: -55, y: -42}
+        - {x: -43, y: -55}
+        - {x: 48, y: -55}
+        - {x: 55, y: -22}
+        - {x: 55, y: 43}
+        - {x: 15, y: 55}
     - name: UI_BOX_source_03
       rect:
         serializedVersion: 2
@@ -137,8 +158,17 @@ TextureImporter:
         width: 180
         height: 160
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 66}
+        - {x: -49, y: 28}
+        - {x: -55, y: 14}
+        - {x: -55, y: -59}
+        - {x: 53, y: -59}
+        - {x: 56, y: -46}
+        - {x: 56, y: 37}
+        - {x: 19, y: 66}
     - name: UI_BOX_source_04
       rect:
         serializedVersion: 2
@@ -147,8 +177,23 @@ TextureImporter:
         width: 180
         height: 160
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 80}
+        - {x: -68, y: 65}
+        - {x: -88, y: -5}
+        - {x: -88, y: -27}
+        - {x: -58, y: -80}
+        - {x: 47, y: -80}
+        - {x: 87, y: -21}
+        - {x: 87, y: 73}
+        - {x: 59, y: 80}
+      - - {x: 68, y: 59}
+        - {x: 71, y: 60}
+        - {x: 71, y: 63}
+        - {x: 68, y: 64}
+        - {x: 66, y: 62}
     - name: UI_BOX_source_05
       rect:
         serializedVersion: 2
@@ -157,8 +202,23 @@ TextureImporter:
         width: 180
         height: 160
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 80}
+        - {x: -68, y: 65}
+        - {x: -88, y: -5}
+        - {x: -88, y: -27}
+        - {x: -58, y: -80}
+        - {x: 47, y: -80}
+        - {x: 87, y: -21}
+        - {x: 87, y: 73}
+        - {x: 59, y: 80}
+      - - {x: 68, y: 59}
+        - {x: 71, y: 60}
+        - {x: 71, y: 63}
+        - {x: 68, y: 64}
+        - {x: 66, y: 62}
     - name: UI_BOX_source_06
       rect:
         serializedVersion: 2
@@ -167,8 +227,23 @@ TextureImporter:
         width: 180
         height: 160
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 80}
+        - {x: -68, y: 65}
+        - {x: -88, y: -5}
+        - {x: -88, y: -27}
+        - {x: -58, y: -80}
+        - {x: 47, y: -80}
+        - {x: 87, y: -21}
+        - {x: 87, y: 73}
+        - {x: 59, y: 80}
+      - - {x: 68, y: 59}
+        - {x: 71, y: 60}
+        - {x: 71, y: 63}
+        - {x: 68, y: 64}
+        - {x: 66, y: 62}
     - name: UI_BOX_source_07
       rect:
         serializedVersion: 2
@@ -177,8 +252,19 @@ TextureImporter:
         width: 180
         height: 160
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62, y: 79}
+        - {x: -68, y: 79}
+        - {x: -81, y: 48}
+        - {x: -81, y: -49}
+        - {x: -61, y: -79}
+        - {x: -49, y: -80}
+        - {x: 62, y: -80}
+        - {x: 81, y: -59}
+        - {x: 81, y: 5}
+        - {x: 76, y: 51}
     - name: UI_BOX_source_08
       rect:
         serializedVersion: 2
@@ -187,8 +273,19 @@ TextureImporter:
         width: 180
         height: 160
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62, y: 79}
+        - {x: -68, y: 79}
+        - {x: -81, y: 48}
+        - {x: -81, y: -49}
+        - {x: -61, y: -79}
+        - {x: -49, y: -80}
+        - {x: 62, y: -80}
+        - {x: 81, y: -59}
+        - {x: 81, y: 5}
+        - {x: 76, y: 51}
     - name: UI_BOX_source_09
       rect:
         serializedVersion: 2
@@ -197,8 +294,18 @@ TextureImporter:
         width: 180
         height: 160
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66, y: 79}
+        - {x: -78, y: 79}
+        - {x: -81, y: 35}
+        - {x: -81, y: -48}
+        - {x: -66, y: -80}
+        - {x: 72, y: -80}
+        - {x: 81, y: -55}
+        - {x: 81, y: -32}
+        - {x: 67, y: 73}
     - name: UI_BOX_source_10
       rect:
         serializedVersion: 2
@@ -207,8 +314,35 @@ TextureImporter:
         width: 180
         height: 160
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78, y: 80}
+        - {x: -90, y: -3}
+        - {x: -90, y: -80}
+        - {x: 90, y: -80}
+        - {x: 90, y: -9}
+        - {x: 76, y: 80}
+      - - {x: -90, y: -72}
+        - {x: -90, y: -77}
+        - {x: -89, y: -78}
+        - {x: -87, y: -78}
+        - {x: -85, y: -76}
+        - {x: -85, y: -74}
+        - {x: -87, y: -72}
+      - - {x: -84, y: -44}
+        - {x: -86, y: -45}
+        - {x: -87, y: -49}
+        - {x: -85, y: -51}
+        - {x: -83, y: -51}
+        - {x: -80, y: -48}
+        - {x: -80, y: -46}
+        - {x: -82, y: -44}
+      - - {x: 76, y: 80}
+        - {x: 76, y: 72}
+        - {x: 77, y: 71}
+        - {x: 83, y: 71}
+        - {x: 83, y: 80}
     - name: UI_BOX_source_11
       rect:
         serializedVersion: 2
@@ -217,8 +351,38 @@ TextureImporter:
         width: 180
         height: 160
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76, y: 80}
+        - {x: -73, y: 80}
+        - {x: -78, y: 79}
+        - {x: -90, y: -48}
+        - {x: -90, y: -71}
+        - {x: -82, y: -80}
+        - {x: 90, y: -80}
+        - {x: 90, y: 46}
+        - {x: 88, y: 70}
+      - - {x: -90, y: -72}
+        - {x: -90, y: -77}
+        - {x: -89, y: -78}
+        - {x: -87, y: -78}
+        - {x: -85, y: -76}
+        - {x: -85, y: -74}
+        - {x: -87, y: -72}
+      - - {x: -84, y: -44}
+        - {x: -86, y: -45}
+        - {x: -87, y: -49}
+        - {x: -85, y: -51}
+        - {x: -83, y: -51}
+        - {x: -80, y: -48}
+        - {x: -80, y: -46}
+        - {x: -82, y: -44}
+      - - {x: 76, y: 80}
+        - {x: 76, y: 72}
+        - {x: 77, y: 71}
+        - {x: 83, y: 71}
+        - {x: 83, y: 80}
     - name: UI_BOX_source_12
       rect:
         serializedVersion: 2
@@ -227,8 +391,38 @@ TextureImporter:
         width: 180
         height: 160
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76, y: 80}
+        - {x: -81, y: 80}
+        - {x: -90, y: 31}
+        - {x: -90, y: -79}
+        - {x: -86, y: -80}
+        - {x: 83, y: -80}
+        - {x: 90, y: -77}
+        - {x: 90, y: -24}
+        - {x: 77, y: 76}
+      - - {x: -90, y: -72}
+        - {x: -90, y: -77}
+        - {x: -89, y: -78}
+        - {x: -87, y: -78}
+        - {x: -85, y: -76}
+        - {x: -85, y: -74}
+        - {x: -87, y: -72}
+      - - {x: -84, y: -44}
+        - {x: -86, y: -45}
+        - {x: -87, y: -49}
+        - {x: -85, y: -51}
+        - {x: -83, y: -51}
+        - {x: -80, y: -48}
+        - {x: -80, y: -46}
+        - {x: -82, y: -44}
+      - - {x: 76, y: 80}
+        - {x: 76, y: 72}
+        - {x: 77, y: 71}
+        - {x: 83, y: 71}
+        - {x: 83, y: 80}
     - name: icon_giraffe_120_01
       rect:
         serializedVersion: 2
@@ -237,8 +431,17 @@ TextureImporter:
         width: 120
         height: 120
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58, y: 57}
+        - {x: -60, y: 57}
+        - {x: -60, y: -36}
+        - {x: -32, y: -58}
+        - {x: 43, y: -58}
+        - {x: 47, y: -44}
+        - {x: 60, y: 5}
+        - {x: 60, y: 56}
     - name: icon_giraffe_120_02
       rect:
         serializedVersion: 2
@@ -247,8 +450,17 @@ TextureImporter:
         width: 120
         height: 120
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: 57}
+        - {x: -60, y: -14}
+        - {x: -58, y: -33}
+        - {x: -33, y: -58}
+        - {x: 21, y: -58}
+        - {x: 60, y: -38}
+        - {x: 60, y: 50}
+        - {x: 50, y: 57}
     - name: icon_giraffe_160_01
       rect:
         serializedVersion: 2
@@ -257,8 +469,18 @@ TextureImporter:
         width: 160
         height: 160
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52, y: 78}
+        - {x: -49, y: 78}
+        - {x: -80, y: 73}
+        - {x: -80, y: -14}
+        - {x: -62, y: -75}
+        - {x: 60, y: -75}
+        - {x: 77, y: -16}
+        - {x: 80, y: 2}
+        - {x: 80, y: 63}
     - name: icon_giraffe_160_02
       rect:
         serializedVersion: 2
@@ -267,8 +489,16 @@ TextureImporter:
         width: 160
         height: 160
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50, y: 78}
+        - {x: -80, y: 78}
+        - {x: -80, y: -70}
+        - {x: -48, y: -75}
+        - {x: 67, y: -75}
+        - {x: 80, y: -43}
+        - {x: 80, y: 67}
     - name: icon_giraffe_50_01
       rect:
         serializedVersion: 2
@@ -277,8 +507,16 @@ TextureImporter:
         width: 50
         height: 50
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 25}
+        - {x: -25, y: 23}
+        - {x: -25, y: -21}
+        - {x: -14, y: -24}
+        - {x: 18, y: -24}
+        - {x: 25, y: -18}
+        - {x: 25, y: 25}
     - name: icon_giraffe_50_02
       rect:
         serializedVersion: 2
@@ -287,8 +525,16 @@ TextureImporter:
         width: 50
         height: 50
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 25}
+        - {x: -25, y: 23}
+        - {x: -25, y: -18}
+        - {x: -19, y: -24}
+        - {x: 11, y: -24}
+        - {x: 25, y: -19}
+        - {x: 25, y: 25}
     - name: icon_giraffe_80_01
       rect:
         serializedVersion: 2
@@ -297,8 +543,17 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 39}
+        - {x: -40, y: 36}
+        - {x: -40, y: -13}
+        - {x: -23, y: -38}
+        - {x: 36, y: -38}
+        - {x: 40, y: -36}
+        - {x: 40, y: 38}
+        - {x: 39, y: 39}
     - name: icon_giraffe_80_02
       rect:
         serializedVersion: 2
@@ -307,8 +562,18 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 39}
+        - {x: -40, y: 36}
+        - {x: -40, y: -16}
+        - {x: -39, y: -25}
+        - {x: -22, y: -36}
+        - {x: -11, y: -38}
+        - {x: 20, y: -38}
+        - {x: 40, y: -29}
+        - {x: 40, y: 39}
     - name: icon_greenturtle_120_01
       rect:
         serializedVersion: 2
@@ -317,8 +582,16 @@ TextureImporter:
         width: 120
         height: 120
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: 54}
+        - {x: -57, y: -42}
+        - {x: -27, y: -60}
+        - {x: 50, y: -60}
+        - {x: 59, y: -35}
+        - {x: 59, y: 50}
+        - {x: 54, y: 54}
     - name: icon_greenturtle_120_02
       rect:
         serializedVersion: 2
@@ -327,8 +600,16 @@ TextureImporter:
         width: 120
         height: 120
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: 54}
+        - {x: -57, y: -42}
+        - {x: -27, y: -60}
+        - {x: 50, y: -60}
+        - {x: 59, y: -35}
+        - {x: 59, y: 50}
+        - {x: 54, y: 54}
     - name: icon_greenturtle_160_01
       rect:
         serializedVersion: 2
@@ -337,8 +618,17 @@ TextureImporter:
         width: 160
         height: 160
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58, y: 72}
+        - {x: -78, y: 51}
+        - {x: -78, y: -68}
+        - {x: -72, y: -80}
+        - {x: 78, y: -80}
+        - {x: 80, y: -79}
+        - {x: 80, y: 63}
+        - {x: 65, y: 72}
     - name: icon_greenturtle_160_02
       rect:
         serializedVersion: 2
@@ -347,8 +637,17 @@ TextureImporter:
         width: 160
         height: 160
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58, y: 72}
+        - {x: -78, y: 51}
+        - {x: -78, y: -68}
+        - {x: -72, y: -80}
+        - {x: 78, y: -80}
+        - {x: 80, y: -79}
+        - {x: 80, y: 63}
+        - {x: 65, y: 72}
     - name: icon_greenturtle_50_01
       rect:
         serializedVersion: 2
@@ -357,8 +656,14 @@ TextureImporter:
         width: 50
         height: 50
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -23}
+        - {x: -19, y: -25}
+        - {x: 25, y: -25}
+        - {x: 25, y: 24}
     - name: icon_greenturtle_50_02
       rect:
         serializedVersion: 2
@@ -367,8 +672,14 @@ TextureImporter:
         width: 50
         height: 50
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -23}
+        - {x: -19, y: -25}
+        - {x: 25, y: -25}
+        - {x: 25, y: 24}
     - name: icon_greenturtle_80_01
       rect:
         serializedVersion: 2
@@ -377,8 +688,16 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: 37}
+        - {x: -38, y: 37}
+        - {x: -38, y: -40}
+        - {x: 25, y: -40}
+        - {x: 37, y: -30}
+        - {x: 40, y: -8}
+        - {x: 40, y: 32}
     - name: icon_greenturtle_80_02
       rect:
         serializedVersion: 2
@@ -387,8 +706,16 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: 37}
+        - {x: -38, y: 37}
+        - {x: -38, y: -40}
+        - {x: 25, y: -40}
+        - {x: 37, y: -30}
+        - {x: 40, y: -8}
+        - {x: 40, y: 32}
     - name: icon_hippopotamus_120_01
       rect:
         serializedVersion: 2
@@ -397,8 +724,17 @@ TextureImporter:
         width: 120
         height: 120
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: 56}
+        - {x: -60, y: 53}
+        - {x: -60, y: -56}
+        - {x: -48, y: -60}
+        - {x: 55, y: -60}
+        - {x: 59, y: -54}
+        - {x: 60, y: -47}
+        - {x: 60, y: 56}
     - name: icon_hippopotamus_120_02
       rect:
         serializedVersion: 2
@@ -407,8 +743,17 @@ TextureImporter:
         width: 120
         height: 120
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: 56}
+        - {x: -60, y: 53}
+        - {x: -60, y: -56}
+        - {x: -48, y: -60}
+        - {x: 55, y: -60}
+        - {x: 59, y: -54}
+        - {x: 60, y: -47}
+        - {x: 60, y: 56}
     - name: icon_hippopotamus_160_01
       rect:
         serializedVersion: 2
@@ -417,8 +762,17 @@ TextureImporter:
         width: 160
         height: 160
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 80, y: 79}
+        - {x: -75, y: 79}
+        - {x: -80, y: 77}
+        - {x: -80, y: -76}
+        - {x: -60, y: -80}
+        - {x: 46, y: -80}
+        - {x: 78, y: -60}
+        - {x: 80, y: -55}
     - name: icon_hippopotamus_160_02
       rect:
         serializedVersion: 2
@@ -427,8 +781,17 @@ TextureImporter:
         width: 160
         height: 160
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 80, y: 79}
+        - {x: -75, y: 79}
+        - {x: -80, y: 77}
+        - {x: -80, y: -76}
+        - {x: -60, y: -80}
+        - {x: 46, y: -80}
+        - {x: 78, y: -60}
+        - {x: 80, y: -55}
     - name: icon_hippopotamus_50_01
       rect:
         serializedVersion: 2
@@ -437,8 +800,13 @@ TextureImporter:
         width: 50
         height: 50
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 25}
+        - {x: -25, y: -25}
+        - {x: 25, y: -25}
+        - {x: 25, y: 25}
     - name: icon_hippopotamus_50_02
       rect:
         serializedVersion: 2
@@ -447,8 +815,13 @@ TextureImporter:
         width: 50
         height: 50
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 25}
+        - {x: -25, y: -25}
+        - {x: 25, y: -25}
+        - {x: 25, y: 25}
     - name: icon_hippopotamus_80_01
       rect:
         serializedVersion: 2
@@ -457,8 +830,20 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 38}
+        - {x: -35, y: 38}
+        - {x: -40, y: 35}
+        - {x: -40, y: -24}
+        - {x: -35, y: -32}
+        - {x: -30, y: -36}
+        - {x: -24, y: -40}
+        - {x: 26, y: -40}
+        - {x: 29, y: -39}
+        - {x: 40, y: -29}
+        - {x: 40, y: 37}
     - name: icon_hippopotamus_80_02
       rect:
         serializedVersion: 2
@@ -467,8 +852,20 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 38}
+        - {x: -35, y: 38}
+        - {x: -40, y: 35}
+        - {x: -40, y: -24}
+        - {x: -35, y: -32}
+        - {x: -30, y: -36}
+        - {x: -24, y: -40}
+        - {x: 26, y: -40}
+        - {x: 29, y: -39}
+        - {x: 40, y: -29}
+        - {x: 40, y: 37}
     - name: icon_horse_120_01
       rect:
         serializedVersion: 2
@@ -477,8 +874,17 @@ TextureImporter:
         width: 120
         height: 120
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 54}
+        - {x: -49, y: -55}
+        - {x: -47, y: -59}
+        - {x: -39, y: -60}
+        - {x: 44, y: -60}
+        - {x: 52, y: -42}
+        - {x: 52, y: 33}
+        - {x: 48, y: 54}
     - name: icon_horse_120_02
       rect:
         serializedVersion: 2
@@ -487,8 +893,16 @@ TextureImporter:
         width: 120
         height: 120
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 54}
+        - {x: -47, y: 53}
+        - {x: -47, y: -59}
+        - {x: -45, y: -60}
+        - {x: 44, y: -60}
+        - {x: 49, y: -44}
+        - {x: 49, y: 54}
     - name: icon_horse_160_01
       rect:
         serializedVersion: 2
@@ -497,8 +911,17 @@ TextureImporter:
         width: 160
         height: 160
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: 71}
+        - {x: -63, y: 53}
+        - {x: -64, y: 30}
+        - {x: -64, y: -80}
+        - {x: 57, y: -80}
+        - {x: 68, y: -30}
+        - {x: 68, y: 41}
+        - {x: 64, y: 71}
     - name: icon_horse_160_02
       rect:
         serializedVersion: 2
@@ -507,8 +930,15 @@ TextureImporter:
         width: 160
         height: 160
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: 71}
+        - {x: -61, y: -70}
+        - {x: -46, y: -80}
+        - {x: 50, y: -80}
+        - {x: 64, y: -51}
+        - {x: 64, y: 71}
     - name: icon_horse_50_01
       rect:
         serializedVersion: 2
@@ -517,8 +947,18 @@ TextureImporter:
         width: 50
         height: 50
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 24}
+        - {x: -21, y: 23}
+        - {x: -21, y: -10}
+        - {x: -17, y: -22}
+        - {x: -15, y: -25}
+        - {x: 17, y: -25}
+        - {x: 22, y: -14}
+        - {x: 22, y: 22}
+        - {x: 20, y: 24}
     - name: icon_horse_50_02
       rect:
         serializedVersion: 2
@@ -527,8 +967,16 @@ TextureImporter:
         width: 50
         height: 50
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 24}
+        - {x: -20, y: 23}
+        - {x: -20, y: -25}
+        - {x: 19, y: -25}
+        - {x: 21, y: -16}
+        - {x: 21, y: 21}
+        - {x: 20, y: 24}
     - name: icon_horse_80_01
       rect:
         serializedVersion: 2
@@ -537,8 +985,17 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 37}
+        - {x: -33, y: 35}
+        - {x: -33, y: -30}
+        - {x: -32, y: -40}
+        - {x: 27, y: -40}
+        - {x: 35, y: -16}
+        - {x: 35, y: 20}
+        - {x: 30, y: 37}
     - name: icon_horse_80_02
       rect:
         serializedVersion: 2
@@ -547,8 +1004,19 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 37}
+        - {x: -30, y: 37}
+        - {x: -31, y: 30}
+        - {x: -31, y: -26}
+        - {x: -26, y: -34}
+        - {x: -22, y: -40}
+        - {x: 25, y: -40}
+        - {x: 28, y: -34}
+        - {x: 32, y: -24}
+        - {x: 32, y: 36}
     - name: icon_jindo_120_01
       rect:
         serializedVersion: 2
@@ -557,8 +1025,15 @@ TextureImporter:
         width: 120
         height: 120
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -60}
+        - {x: 50, y: -60}
+        - {x: 50, y: 39}
+        - {x: 49, y: 53}
+        - {x: 47, y: 56}
+        - {x: -50, y: 56}
     - name: icon_jindo_120_02
       rect:
         serializedVersion: 2
@@ -567,8 +1042,15 @@ TextureImporter:
         width: 120
         height: 120
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -60}
+        - {x: 50, y: -60}
+        - {x: 50, y: 39}
+        - {x: 49, y: 53}
+        - {x: 47, y: 56}
+        - {x: -50, y: 56}
     - name: icon_jindo_120_03
       rect:
         serializedVersion: 2
@@ -577,8 +1059,15 @@ TextureImporter:
         width: 120
         height: 120
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -60}
+        - {x: 50, y: -60}
+        - {x: 50, y: 39}
+        - {x: 49, y: 53}
+        - {x: 47, y: 56}
+        - {x: -50, y: 56}
     - name: icon_jindo_120_04
       rect:
         serializedVersion: 2
@@ -587,8 +1076,15 @@ TextureImporter:
         width: 120
         height: 120
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -60}
+        - {x: 50, y: -60}
+        - {x: 50, y: 39}
+        - {x: 49, y: 53}
+        - {x: 47, y: 56}
+        - {x: -50, y: 56}
     - name: icon_jindo_160_01
       rect:
         serializedVersion: 2
@@ -597,8 +1093,16 @@ TextureImporter:
         width: 160
         height: 160
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 74}
+        - {x: -64, y: 71}
+        - {x: -65, y: 48}
+        - {x: -65, y: -80}
+        - {x: 64, y: -80}
+        - {x: 66, y: -77}
+        - {x: 66, y: 74}
     - name: icon_jindo_160_02
       rect:
         serializedVersion: 2
@@ -607,8 +1111,16 @@ TextureImporter:
         width: 160
         height: 160
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 74}
+        - {x: -64, y: 71}
+        - {x: -65, y: 48}
+        - {x: -65, y: -80}
+        - {x: 64, y: -80}
+        - {x: 66, y: -77}
+        - {x: 66, y: 74}
     - name: icon_jindo_160_03
       rect:
         serializedVersion: 2
@@ -617,8 +1129,16 @@ TextureImporter:
         width: 160
         height: 160
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 74}
+        - {x: -64, y: 71}
+        - {x: -65, y: 48}
+        - {x: -65, y: -80}
+        - {x: 64, y: -80}
+        - {x: 66, y: -77}
+        - {x: 66, y: 74}
     - name: icon_jindo_160_04
       rect:
         serializedVersion: 2
@@ -627,8 +1147,16 @@ TextureImporter:
         width: 160
         height: 160
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 74}
+        - {x: -64, y: 71}
+        - {x: -65, y: 48}
+        - {x: -65, y: -80}
+        - {x: 64, y: -80}
+        - {x: 66, y: -77}
+        - {x: 66, y: 74}
     - name: icon_jindo_50_01
       rect:
         serializedVersion: 2
@@ -637,8 +1165,13 @@ TextureImporter:
         width: 50
         height: 50
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 24}
+        - {x: -21, y: -25}
+        - {x: 21, y: -25}
+        - {x: 21, y: 24}
     - name: icon_jindo_50_02
       rect:
         serializedVersion: 2
@@ -647,8 +1180,13 @@ TextureImporter:
         width: 50
         height: 50
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 24}
+        - {x: -21, y: -25}
+        - {x: 21, y: -25}
+        - {x: 21, y: 24}
     - name: icon_jindo_50_03
       rect:
         serializedVersion: 2
@@ -657,8 +1195,13 @@ TextureImporter:
         width: 50
         height: 50
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 24}
+        - {x: -21, y: -25}
+        - {x: 21, y: -25}
+        - {x: 21, y: 24}
     - name: icon_jindo_50_04
       rect:
         serializedVersion: 2
@@ -667,8 +1210,13 @@ TextureImporter:
         width: 50
         height: 50
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 24}
+        - {x: -21, y: -25}
+        - {x: 21, y: -25}
+        - {x: 21, y: 24}
     - name: icon_jindo_80_01
       rect:
         serializedVersion: 2
@@ -677,8 +1225,16 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 38}
+        - {x: -32, y: 34}
+        - {x: -33, y: 19}
+        - {x: -33, y: -37}
+        - {x: -30, y: -40}
+        - {x: 34, y: -40}
+        - {x: 34, y: 38}
     - name: icon_jindo_80_02
       rect:
         serializedVersion: 2
@@ -687,8 +1243,16 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 38}
+        - {x: -32, y: 34}
+        - {x: -33, y: 19}
+        - {x: -33, y: -37}
+        - {x: -30, y: -40}
+        - {x: 34, y: -40}
+        - {x: 34, y: 38}
     - name: icon_jindo_80_03
       rect:
         serializedVersion: 2
@@ -697,8 +1261,16 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 38}
+        - {x: -32, y: 34}
+        - {x: -33, y: 19}
+        - {x: -33, y: -37}
+        - {x: -30, y: -40}
+        - {x: 34, y: -40}
+        - {x: 34, y: 38}
     - name: icon_jindo_80_04
       rect:
         serializedVersion: 2
@@ -707,8 +1279,17 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 38}
+        - {x: -32, y: 34}
+        - {x: -33, y: 19}
+        - {x: -33, y: -37}
+        - {x: -30, y: -40}
+        - {x: 34, y: -40}
+        - {x: 34, y: 38}
+    outline: []
   spritePackingTag: 
   userData: 
   assetBundleName: 
