@@ -35,7 +35,7 @@ TextureImporter:
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
   grayScaleToAlpha: 0
@@ -55,11 +55,12 @@ TextureImporter:
   lightmap: 0
   rGBM: 0
   compressionQuality: 50
+  allowsAlphaSplitting: 0
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
+  spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
   alphaIsTransparency: 1
@@ -75,8 +76,9 @@ TextureImporter:
         width: 10
         height: 10
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
     - name: button_normal
       rect:
         serializedVersion: 2
@@ -85,8 +87,13 @@ TextureImporter:
         width: 73
         height: 39
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 3, y: 4, z: 3, w: 3}
+      outline:
+      - - {x: -36.5, y: 19.5}
+        - {x: -36.5, y: -19.5}
+        - {x: 36.5, y: -19.5}
+        - {x: 36.5, y: 19.5}
     - name: button_press
       rect:
         serializedVersion: 2
@@ -95,8 +102,13 @@ TextureImporter:
         width: 73
         height: 39
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 3, y: 4, z: 3, w: 3}
+      outline:
+      - - {x: -36.5, y: 19.5}
+        - {x: -36.5, y: -19.5}
+        - {x: 36.5, y: -19.5}
+        - {x: 36.5, y: 19.5}
     - name: checkbox
       rect:
         serializedVersion: 2
@@ -105,8 +117,9 @@ TextureImporter:
         width: 17
         height: 18
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 3, y: 4, z: 3, w: 3}
+      outline: []
     - name: checkbox_cross
       rect:
         serializedVersion: 2
@@ -115,8 +128,9 @@ TextureImporter:
         width: 11
         height: 12
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
     - name: checkbox_select
       rect:
         serializedVersion: 2
@@ -125,8 +139,9 @@ TextureImporter:
         width: 12
         height: 11
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
     - name: input
       rect:
         serializedVersion: 2
@@ -135,8 +150,9 @@ TextureImporter:
         width: 9
         height: 11
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
     - name: progress_bg
       rect:
         serializedVersion: 2
@@ -145,8 +161,9 @@ TextureImporter:
         width: 11
         height: 11
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 5, y: 5, z: 5, w: 4}
+      outline: []
     - name: progress_fg
       rect:
         serializedVersion: 2
@@ -155,8 +172,9 @@ TextureImporter:
         width: 11
         height: 11
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 5, y: 5, z: 5, w: 4}
+      outline: []
     - name: radio
       rect:
         serializedVersion: 2
@@ -165,8 +183,9 @@ TextureImporter:
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 7, y: 8, z: 8, w: 7}
+      outline: []
     - name: radio_select
       rect:
         serializedVersion: 2
@@ -175,8 +194,9 @@ TextureImporter:
         width: 7
         height: 9
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
     - name: slider_bg
       rect:
         serializedVersion: 2
@@ -185,8 +205,9 @@ TextureImporter:
         width: 13
         height: 13
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 6, y: 6, z: 6, w: 5}
+      outline: []
     - name: slider_circle
       rect:
         serializedVersion: 2
@@ -195,8 +216,9 @@ TextureImporter:
         width: 19
         height: 20
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
     - name: slider_dot
       rect:
         serializedVersion: 2
@@ -205,8 +227,9 @@ TextureImporter:
         width: 19
         height: 20
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
     - name: slider_square
       rect:
         serializedVersion: 2
@@ -215,8 +238,9 @@ TextureImporter:
         width: 19
         height: 17
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
     - name: switch_bg
       rect:
         serializedVersion: 2
@@ -225,8 +249,9 @@ TextureImporter:
         width: 15
         height: 15
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 7, y: 7, z: 7, w: 6}
+      outline: []
     - name: switch_inner
       rect:
         serializedVersion: 2
@@ -235,8 +260,9 @@ TextureImporter:
         width: 16
         height: 17
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
     - name: white
       rect:
         serializedVersion: 2
@@ -245,8 +271,10 @@ TextureImporter:
         width: 10
         height: 10
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
   spritePackingTag: 
   userData: 
   assetBundleName: 

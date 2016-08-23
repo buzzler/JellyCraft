@@ -27,7 +27,7 @@ TextureImporter:
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
   grayScaleToAlpha: 0
@@ -37,7 +37,7 @@ TextureImporter:
   cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
-  maxTextureSize: 1024
+  maxTextureSize: 4096
   textureSettings:
     filterMode: -1
     aniso: 16
@@ -47,11 +47,12 @@ TextureImporter:
   lightmap: 0
   rGBM: 0
   compressionQuality: 50
+  allowsAlphaSplitting: 0
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
+  spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
   alphaIsTransparency: 1
@@ -67,8 +68,16 @@ TextureImporter:
         width: 68
         height: 68
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 32, y: 32, z: 32, w: 32}
+      outline:
+      - - {x: -34, y: 34}
+        - {x: -34, y: -28}
+        - {x: -19, y: -34}
+        - {x: 20, y: -34}
+        - {x: 34, y: -28}
+        - {x: 34, y: 33}
+        - {x: 33, y: 34}
     - name: btn_normal_blue_click
       rect:
         serializedVersion: 2
@@ -77,8 +86,16 @@ TextureImporter:
         width: 68
         height: 68
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 32, y: 32, z: 32, w: 32}
+      outline:
+      - - {x: -34, y: 34}
+        - {x: -34, y: -28}
+        - {x: -19, y: -34}
+        - {x: 20, y: -34}
+        - {x: 34, y: -28}
+        - {x: 34, y: 33}
+        - {x: 33, y: 34}
     - name: btn_normal_disable
       rect:
         serializedVersion: 2
@@ -87,8 +104,16 @@ TextureImporter:
         width: 68
         height: 68
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 32, y: 32, z: 32, w: 32}
+      outline:
+      - - {x: -34, y: 34}
+        - {x: -34, y: -28}
+        - {x: -19, y: -34}
+        - {x: 20, y: -34}
+        - {x: 34, y: -28}
+        - {x: 34, y: 33}
+        - {x: 33, y: 34}
     - name: icon_pause
       rect:
         serializedVersion: 2
@@ -97,8 +122,23 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 38}
+        - {x: -35, y: -48}
+        - {x: -3, y: -48}
+        - {x: 0, y: -45}
+        - {x: 0, y: 35}
+        - {x: -3, y: 38}
+      - - {x: 5, y: 38}
+        - {x: 2, y: 35}
+        - {x: 2, y: -45}
+        - {x: 5, y: -48}
+        - {x: 34, y: -48}
+        - {x: 37, y: -45}
+        - {x: 37, y: 35}
+        - {x: 34, y: 38}
     - name: slot_a_01
       rect:
         serializedVersion: 2
@@ -107,8 +147,19 @@ TextureImporter:
         width: 45
         height: 45
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 16, y: 16, z: 16, w: 16}
+      outline:
+      - - {x: -22.5, y: 22.5}
+        - {x: -22.5, y: -22.5}
+        - {x: 18.5, y: -22.5}
+        - {x: 22.5, y: -19.5}
+        - {x: 22.5, y: 18.5}
+        - {x: 19.5, y: 22.5}
+      - - {x: -12.5, y: 9.5}
+        - {x: 12.5, y: 9.5}
+        - {x: 13.5, y: -8.5}
+        - {x: -9.5, y: -12.5}
     - name: slot_a_02
       rect:
         serializedVersion: 2
@@ -117,8 +168,19 @@ TextureImporter:
         width: 45
         height: 45
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 16, y: 16, z: 16, w: 16}
+      outline:
+      - - {x: -22.5, y: 22.5}
+        - {x: -22.5, y: -22.5}
+        - {x: 18.5, y: -22.5}
+        - {x: 22.5, y: -19.5}
+        - {x: 22.5, y: 18.5}
+        - {x: 19.5, y: 22.5}
+      - - {x: -12.5, y: 9.5}
+        - {x: 12.5, y: 9.5}
+        - {x: 13.5, y: -8.5}
+        - {x: -9.5, y: -12.5}
     - name: string_gameover
       rect:
         serializedVersion: 2
@@ -127,8 +189,20 @@ TextureImporter:
         width: 477
         height: 99
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 238.5, y: -46.5}
+        - {x: 238.5, y: 30.5}
+        - {x: 235.5, y: 38.5}
+        - {x: 217.5, y: 49.5}
+        - {x: -209.5, y: 49.5}
+        - {x: -220.5, y: 44.5}
+        - {x: -230.5, y: 35.5}
+        - {x: -238.5, y: 26.5}
+        - {x: -238.5, y: -32.5}
+        - {x: -226.5, y: -49.5}
+        - {x: 232.5, y: -49.5}
     - name: string_go
       rect:
         serializedVersion: 2
@@ -137,8 +211,33 @@ TextureImporter:
         width: 352
         height: 161
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 80.5}
+        - {x: -46, y: 49.5}
+        - {x: -53, y: 30.5}
+        - {x: -56, y: 22.5}
+        - {x: -60, y: 23.5}
+        - {x: -102, y: 23.5}
+        - {x: -106, y: 22.5}
+        - {x: -115, y: 16.5}
+        - {x: -121, y: 10.5}
+        - {x: -124, y: 4.5}
+        - {x: -115, y: 22.5}
+        - {x: -100, y: 27.5}
+        - {x: -73, y: 23.5}
+        - {x: -62, y: 23.5}
+        - {x: -54, y: 30.5}
+        - {x: -49, y: 46.5}
+        - {x: -45, y: 64.5}
+        - {x: -45, y: 80.5}
+        - {x: -158, y: 80.5}
+        - {x: -176, y: 68.5}
+        - {x: -176, y: -65.5}
+        - {x: -170, y: -80.5}
+        - {x: 176, y: -80.5}
+        - {x: 176, y: 80.5}
     - name: string_ready
       rect:
         serializedVersion: 2
@@ -147,8 +246,16 @@ TextureImporter:
         width: 283
         height: 86
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 122.5, y: -37}
+        - {x: 131.5, y: -34}
+        - {x: 141.5, y: 10}
+        - {x: 141.5, y: 43}
+        - {x: -141.5, y: 43}
+        - {x: -141.5, y: -43}
+        - {x: 117.5, y: -43}
     - name: string_victory
       rect:
         serializedVersion: 2
@@ -157,8 +264,24 @@ TextureImporter:
         width: 512
         height: 121
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 206, y: -53.5}
+        - {x: 207, y: -45.5}
+        - {x: 208, y: -47.5}
+        - {x: 215, y: -58.5}
+        - {x: 220, y: -60.5}
+        - {x: 249, y: -60.5}
+        - {x: 256, y: -53.5}
+        - {x: 256, y: 53.5}
+        - {x: 248, y: 60.5}
+        - {x: -249, y: 60.5}
+        - {x: -256, y: 54.5}
+        - {x: -256, y: 16.5}
+        - {x: -228, y: -60.5}
+        - {x: 197, y: -60.5}
+    outline: []
   spritePackingTag: 
   userData: 
   assetBundleName: 
